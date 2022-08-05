@@ -1,0 +1,9 @@
+"Phrases"
+{
+	"Slot reserved"
+	{
+		"en"			"Dropped due to slot reservation"
+		"chi"			"您已经被踢出因为伺服器特殊保留位子"
+		"zho"			"您已經被踢出因為伺服器特殊保留位子"
+	}
+}

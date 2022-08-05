@@ -1,0 +1,107 @@
+"Phrases"
+{
+	"HideT Tag"
+	{
+		"en"			"{default}[{green}HT{default}]"
+		"ru"			"{default}[{green}HT{default}]"
+		"chi"			"{default}[{green}HT{default}]"
+		"zho"			"{default}[{green}HT{default}]"
+	}
+	"HideT Disabled"
+	{
+		"en"			"{default}Currently {red}disabled"
+		"ru"			"{default}Сейчас {red}отключено"
+		"chi"			"{default}现在{red}关闭"
+		"zho"			"{default}現在{red}關閉"
+	}
+	"HideT Wait"
+	{
+		"en"			"{orange}Please wait, your settings are retrieved..."
+		"ru"			"{orange}Пожалуйста подождите пока ваши настройки загрузятся..."
+		"chi"			"{orange}请稍等，正在处理您的设定"
+		"zho"			"{orange}請稍等，正在處理您的設定"
+	}
+	"HideT Client Enable"
+	{
+		"#format"		"{1:d}"
+		"en"			"{default}Hide are now {green}Enabled {default}with distance {lightblue}{1}"
+		"ru"			"{default}Скрытие тиммейтов сейчас {green}Включено {default}на дистанции {lightblue}{1}"
+		"chi"			"{default}隐藏队友{green}启动{default} 设置距离: {lightblue}{1}"
+		"zho"			"{default}隱藏隊友{green}啟動{default} 設置距離: {lightblue}{1}"
+	}
+	"HideT Client Enable All Map"
+	{
+		"en"			"{default}Hide are now {green}Enabled {default}on {lightblue}All map"
+		"ru"			"{default}Скрытие тиммейтов сейчас {green}Включено {default}на {lightblue}Всей карте"
+		"chi"			"{default}隐藏队友{green}启动{default} 设置{lightblue}全地图"
+		"zho"			"{default}隱藏隊友{green}啟動{default} 設置{lightblue}全地圖"
+	}
+	"HideT Client Wrong"
+	{
+		"#format"		"{1:d}"
+		"en"			"{default}Hide. {red}Wrong input{default}, range {lime}0{default}-{lime}{1}"
+		"ru"			"{default}Скрытие тиммейтов. {red}Ошибка ввода{default}, Диапозон {lime}0{default}-{lime}{1}"
+		"chi"			"{default}隐藏队友{red}数据输入错误{default} 设置距离: {lime}0{default}-{lime}{1}"
+		"zho"			"{default}隱藏隊友{red}數據輸入錯誤{default} 設置距離: {lime}0{default}-{lime}{1}"
+	}
+	"HideT Client Disable"
+	{
+		"en"			"{default}Hide are now {red}Disabled"
+		"ru"			"{default}Скрытие тиммейтов сейчас {red}Отключено"
+		"chi"			"{default}隐藏队友{red}关闭"
+		"zho"			"{default}隱藏隊友{red}關閉"
+	}
+	"HideT Cookie Menu"
+	{
+		"en"			"Hide Teammates"
+		"ru"			"Скрывать союзников"
+		"chi"			"隐藏队友"
+		"zho"			"隱藏隊友"
+	}
+	"HideT Menu Title"
+	{
+		"en"			"Menu Hide Teammates"
+		"ru"			"Меню Скрытия союзников"
+		"chi"			"隐藏队友系统菜单"
+		"zho"			"隱藏隊友系統菜單"
+	}
+	"HideT Menu Hide"
+	{
+		"en"			"Hide Teammates"
+		"ru"			"Спрятать союзников"
+		"chi"			"隐藏队友"
+		"zho"			"隱藏隊友"
+	}
+	"HideT Menu Show"
+	{
+		"en"			"Show Teammates"
+		"ru"			"Показать союзников"
+		"chi"			"显示队友"
+		"zho"			"顯示隊友"
+	}
+	"HideT AdjustDesc"
+	{
+		"#format"		"{1:d}"
+		
+		"en"			"You can hide allies completely\nor at a certain distance\nUse\"!hide <value>\"\n *-1: Display all\n *0: Hide on All Map\n *from 1 to {1}: Distance"
+		"ru"			"Вы можете скрыть союзников полностью\nили на определённой дистанции\nИспользуйте\"!hide <значение>\"\n *-1: Показать всех\n *0: Скрыть на всей карте\n *от 1 до {1}: На определенной дистанции"
+		"chi"			"你可以完全的隐藏队友\n或是隐藏特定距离\n使用\"!hide <数值>\"\n *-1: 全部显示\n *0: 全地图隐藏\n *从 1 至 {1}: 距离"
+		"zho"			"你可以完全的隱藏隊友\n或是隱藏特定距離\n使用\"!hide <數值>\"\n *-1: 全部顯示\n *0: 全地圖隱藏\n *從 1 至 {1}: 距離"
+	}
+	"HideT Menu Distance"
+	{
+		"#format"	"{1:d}"
+		
+		"en"			"Distance: {1}"
+		"ru"			"Дистанция: {1}"
+		"chi"			"隐藏距离: {1}"
+		"zho"			"隱藏距離: {1}"
+	}
+	"HideT Menu All Map"
+	{
+		"en"			"Distance: All Map"
+		"ru"			"Дистанция: Вся Карта"
+		"chi"			"隐藏距离: 全地图"
+		"zho"			"隱藏距離: 全地圖"
+	}
+}

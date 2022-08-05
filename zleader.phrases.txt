@@ -1,0 +1,352 @@
+"Phrases"
+{
+	// Non-Menu Message
+	"Prefix"
+	{
+		"en"    "{green}[ZLeader]{default}"
+		"chi"	"{green}[ZLeader]{default}"
+		"zho"	"{green}[ZLeader]{default}"
+	}
+
+	"Slot is full"
+	{
+		"en"    "All Leader slot is full!"
+		"chi"	"已经没有指挥空缺了"
+		"zho"	"已經沒有指揮空缺了"
+	}
+
+	"You set client leader"
+	{
+		"#format" "{1:N}" 
+		"en"    "You have set leader on {lime}{1}{default}."
+		"chi"	"您设置了 {1} 作为指挥"
+		"zho"	"您設置了 {1} 作為指揮"
+	}
+
+	"Vote leader usage"
+	{
+		"en"    "Usage: sm_voteleader <player>"
+		"chi"	"使用: sm_voteleader <玩家名称>(於控制台)"
+		"zho"	"使用: sm_voteleader <玩家名稱>(於控制台)"
+	}
+
+	"Already vote client"
+	{
+		"en"    "You've already voted for this person!"
+		"chi"	"你已经投票给这个人了"
+		"zho"	"你已經投票給這個人了"
+	}
+
+	"Already Leader"
+	{
+		"#format"	"{1:N}"
+		"en"	"{lightred}{1}{default} is already leader!"
+		"chi"	"{lightred} {1} {default}已经是指挥了!"
+		"zho"	"{lightred} {1} {default}已經是指揮了!"
+	}
+
+	"Has to be human"
+	{
+		"en"    "You have to vote for a human!"
+		"chi"	"您必须投票给存活的人当指挥"
+		"zho"	"您必須投票給存活的人當指揮"
+	}
+
+	"It's Zombie"
+	{
+		"en"	"Target is zombie!"
+		"chi"	"您选择的人是殭尸"
+		"zho"	"您選擇的人是殭屍"
+	}
+
+	"Vote for client"
+	{
+		"#format" "{1:N},{2:N},{3:i},{4:i}" 
+		"en"    "{1} has voted for {2} to be the leader. ({3}/{4} votes)"
+		"chi"	"{1} 投票给 {2} 当指挥"
+		"zho"	"{1} 投票給 {2} 當指揮"
+	}
+
+	"Invalid client"
+	{
+		"en"	"Invalid client."
+		"chi"	"无效的名称"
+		"zho"	"無效的名稱"
+	}
+
+	"Client is not leader"
+	{
+		"#format" "{1:N}"
+		"en"	"{1} is not the leader!"
+		"chi"	"{1} 不是指挥"
+		"zho"	"{1} 不是指揮"
+	}
+
+	"Become New Leader"
+	{
+		"#format" "{1:N},{2:s}"
+		"en"	"{lightblue}{1}{default} has become new {orange}Leader {2}{default}!"
+		"chi"	"{lightblue}{1}{default}变成了{orange}指挥 {2} {default}!"
+		"zho"	"{lightblue}{1}{default}變成了{orange}指揮 {2} {default}!"
+	}
+
+	// Remove Reason
+	"Remove Disconnected"
+	{
+		"#format" "{1:s},{2:N}"
+		"en"	"Leader {orange}{1}{default} {lightred}{2}{default} has disconnected from the server!"
+		"chi"	"指挥 {orange}{1}{default} {lightred}{2}{default} 离开了伺服器!"
+		"zho"	"指揮 {orange}{1}{default} {lightred}{2}{default} 離開了伺服器!"
+	}
+
+	"Remove Admin Force"
+	{
+		"#format" "{1:s},{2:N}"
+		"en"	"Leader {orange}{1}{default} {lightred}{2}{default} has been resigned by admin!"
+		"chi"	"指挥 {orange}{1}{default} {lightred}{2}{default} 被管理员移除了指挥身分!"
+		"zho"	"指揮 {orange}{1}{default} {lightred}{2}{default} 被管理員移除了指揮身分!"
+	}
+
+	"Remove Self Resign"
+	{
+		"#format" "{1:s},{2:N}"
+		"en"	"Leader {orange}{1}{default} {lightred}{2}{default} has resigned by him/herself!"
+		"chi"	"指挥 {orange}{1}{default} {lightred}{2}{default} 他/她辞去了指挥职务!"
+		"zho"	"指揮 {orange}{1}{default} {lightred}{2}{default} 他/她辭去了指揮職務!"
+	}
+
+	"Remove Spectator"
+	{
+		"#format" "{1:s},{2:N}"
+		"en"	"Leader {orange}{1}{default} {lightred}{2}{default} has been resigned for moving to spectator!"
+		"chi"	"指挥 {orange}{1}{default} {lightred}{2}{default} 去观察方并辞去了指挥职务!"
+		"zho"	"指揮 {orange}{1}{default} {lightred}{2}{default} 去觀察方並辭去了指揮職務!"
+	}
+
+	"Remove Died"
+	{
+		"#format" "{1:s},{2:N}"
+		"en"	"Leader {orange}{1}{default} {lightred}{2}{default} is died and get resigned!"
+		"chi"	"指挥 {orange}{1}{default} {lightred}{2}{default} 死亡了被剃除了指挥职务!"
+		"zho"	"指揮 {orange}{1}{default} {lightred}{2}{default} 死亡了被剃除了指揮職務!"
+	}
+
+	"Remove Infected"
+	{
+		"#format" "{1:s},{2:N}"
+		"en"	"Leader {orange}{1}{default} {lightred}{2}{default} get infected and get resigned!"
+		"chi"	"指挥 {orange}{1}{default} {lightred}{2}{default} 被感染了移除指挥身分!"
+		"zho"	"指揮 {orange}{1}{default} {lightred}{2}{default} 被感染了移除指揮身分!"
+	}
+
+
+	// Menu Message
+	"Menu Prefix"
+	{
+		"en"	"[ZLeader]"
+		"chi"	"[ZLeader]"
+		"zho"	"[ZLeader]"
+	}
+
+	"Menu Leader title"
+	{
+		"en"	"Leader Menu"
+		"chi"	"指挥菜单"
+		"zho"	"指揮菜單"
+	}
+
+	"Menu Leader list title"
+	{
+		"en"	"Leader list menu"
+		"chi"	"指挥菜单列表"
+		"zho"	"指揮菜單列表"
+	}
+
+	"Menu Remove Leader title"
+	{
+		"en"	"Select leader to remove them"
+		"chi"	"选择移除掉哪名指挥"
+		"zho"	"選擇移除掉哪名指揮"
+	}
+
+	"None"
+	{
+		"en"	"None"
+		"chi"	"否决"
+		"zho"	"否決"
+	}
+
+	"Defend Here"
+	{
+		"en"	"Defend Here"
+		"chi"	"在这裡防守"
+		"zho"	"在這裡防守"
+	}
+
+	"Follow Me"
+	{
+		"en"	"Follow Me"
+		"chi"	"跟着我走"
+		"zho"	"跟著我走"
+	}
+
+	"Toggle Beacon"
+	{
+		"en"	"Toggle Beacon"
+		"chi"	"把自己点亮"
+		"zho"	"把自己點亮"
+	}
+
+	"Place Marker"
+	{
+		"en"	"Place Marker"
+		"chi"	"放置图标"
+		"zho"	"放置圖標"
+	}
+
+	"Remove Marker"
+	{
+		"en"	"Remove Marker"
+		"chi"	"移除图标"
+		"zho"	"移除圖標"
+	}
+
+	"Resign from Leader"
+	{
+		"en"	"Resign from Leader"
+		"chi"	"辞去指挥"
+		"zho"	"辭去指揮"
+	}
+
+	// Marker Menu
+	"Marker menu title"
+	{
+		"en"	"Marker Menu Option"
+		"chi"	"图标菜单"
+		"zho"	"圖標菜單"
+	}
+
+	"Marker Only"
+	{
+		"en"	"Marker Only"
+		"chi"	"图标"
+		"zho"	"圖標"
+	}
+
+	"ZM Teleport"
+	{
+		"en"	"ZM Teleport"
+		"chi"	"殭尸传送图标"
+		"zho"	"殭屍傳送圖標"
+	}
+
+	"No Doorhug"
+	{
+		"en"	"No Doorhug"
+		"chi"	"不允许贴门图标"
+		"zho"	"不允許貼門圖標"
+	}
+
+	// Preference
+	"Client Setting"
+	{
+		"en"	"Client Setting"
+		"chi"	"客户端设定"
+		"zho"	"客戶端設定"
+	}
+
+	"Shortcut"
+	{
+		"en"	"Shortcut F Key"
+		"chi"	"F为菜单捷径"
+		"zho"	"F為菜單捷徑"
+	}
+
+	"Marker Pos"
+	{
+		"en"	"Marker Postion"
+		"chi"	"图标位置"
+		"zho"	"圖標位置"
+	}
+
+	"Enabled"
+	{
+		"en"	"Enabled"
+		"chi"	"开启"
+		"zho"	"開啟"
+	}
+
+	"Disabled"
+	{
+		"en"	"Disabled"
+		"chi"	"关闭"
+		"zho"	"關閉"
+	}
+
+	"Enabled Chat"
+	{
+		"en"	"{lime}Enabled"
+		"chi"	"{lime}开启"
+		"zho"	"{lime}開啟"
+	}
+
+	"Disabled Chat"
+	{
+		"en"	"{lightred}Disabled"
+		"chi"	"{lightred}关闭"
+		"zho"	"{lightred}關閉"
+	}
+
+	"Client Position"
+	{
+		"en"	"Client's Position"
+		"chi"	"客户端位置"
+		"zho"	"客戶端位置"
+	}
+
+	"Client Crosshair"
+	{
+		"en"	"Client's Crosshair"
+		"chi"	"客户端准心"
+		"zho"	"客戶端準心"
+	}
+
+	"You set shortcut"
+	{
+		"#format"	"{1:s}"
+		"en"	"You have {1} {default}leader shortcut key."
+		"chi"	"您设置了 {1} {default}为指挥菜单捷径"
+		"zho"	"您設置了 {1} {default}為指揮菜單捷徑"
+	}
+
+	"Marker Pos Crosshair"
+	{
+		"en"	"You have set Marker to be set at {darkblue}Your crosshair{default} position."
+		"chi"	"您在您准心瞄准位置设置了{darkblue}图标"
+		"zho"	"您在您準心瞄準位置設置了{darkblue}圖標"
+	}
+
+	"Marker Pos Player Postion"
+	{
+		"en"	"You have set Marker to be set at {darkblue}Player's{default} position."
+		"chi"	"您设置了图标在{darkblue}玩家{default}的位置"
+		"zho"	"您設置了圖標在{darkblue}玩家{default}的位置"
+	}
+
+	// Leader Die
+	"Has Died"
+	{
+		"#format"	"{1:s},{2:N}"
+		"en"	"Leader {orange}{1}{default} {red}{2}{default} is died!"
+		"chi"	"指挥 {orange}{1}{default} {red}{2}{default} 死亡!"
+		"zho"	"指揮 {orange}{1}{default} {red}{2}{default} 死亡!"
+	}
+
+	"Get Infected"
+	{
+		"#format"	"{1:s},{2:N}"
+		"en"	"Leader {orange}{1}{default} {red}{2}{default} get infected!"
+		"chi"	"指挥 {orange}{1}{default} {red}{2}{default} 被感染!"
+		"zho"	"指揮 {orange}{1}{default} {red}{2}{default} 被感染!"
+	}
+}

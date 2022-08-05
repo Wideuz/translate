@@ -1,0 +1,39 @@
+"Phrases"
+{
+	"ToggleAutoZspawn"
+	{
+		"en"	"AutoZspawn is now"
+		"chi"	"自动重生系统检测"
+		"zho"	"自動重生系統檢測"
+	}
+	"Enabled"
+	{
+		"en"	"{lightgreen}Enabled"
+		"chi"	"开启"
+		"zho"	"開啟"
+	}
+	"Disabled"
+	{
+		"en"	"{red}Disabled"
+		"chi"	"关闭"
+		"zho"	"關閉"
+	}
+	"for you"
+	{
+		"en"	"for you"
+		"chi"	"给您"
+		"zho"	"給您"
+	}
+	"JoinTeam"
+	{
+		"en"	"You are currently"
+		"chi"	"您现在"
+		"zho"	"您現在"
+	}
+	"Type Again"
+	{
+		"en"	"{default}AutoZspawn. Type {lightgreen}!autozspawn {default}again to toggle the option."
+		"chi"	"{default}自动重生系统，再次输入 {lightgreen}!autozspawn {default}去开启选项"
+		"zho"	"{default}自動重生系統，再次輸入 {lightgreen}!autozspawn {default}去開啟選項"
+	}
+}

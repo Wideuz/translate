@@ -1,0 +1,61 @@
+"Phrases"
+{
+	"Name changed"
+	{
+		"en"			"An admin has changed your name"
+		"chi"			"有管理员改了您的名称"
+		"zho"			"有管理員改了您的名稱"
+	}
+
+	"Renamed target"
+	{
+		"#format"		"{1:t}"
+		"en"			"Renamed {1}."
+		"chi"			"更改名称至 {1}"
+		"zho"			"更改名稱至 {1}"
+	}
+
+	"Rename player"
+	{
+		"en"			"Rename player"
+		"chi"			"更改玩家名称"
+		"zho"			"更改玩家名稱"
+	}
+	
+	"Slap player"
+	{
+		"en"			"Slap player"
+		"chi"			"搧玩家巴掌"
+		"zho"			"搧玩家巴掌"
+	}
+
+	"Slap damage"
+	{
+		"en"			"Slap damage"
+		"chi"			"巴掌的伤害"
+		"zho"			"巴掌的傷害"
+	}
+	
+	"Slay player"
+	{
+		"en"			"Slay player"
+		"chi"			"处死玩家"
+		"zho"			"處死玩家"
+	}
+	
+	"Slapped target"
+	{
+		"#format"		"{1:t}"
+		"en"			"Slapped {1}."
+		"chi"			"搧 {1} 一个巴掌"
+		"zho"			"搧 {1} 一個巴掌"
+	}
+	
+	"Slayed target"
+	{
+		"#format"		"{1:t}"
+		"en"			"Slayed {1}."
+		"chi"			"处死 {1}"
+		"zho"			"處死 {1}"
+	}
+}

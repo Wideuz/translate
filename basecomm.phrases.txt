@@ -1,0 +1,106 @@
+"Phrases"
+{
+	"Gag/Mute player"
+	{
+		"en"			"Gag/Mute player"
+		"zho"			"禁言/禁音玩家"
+		"chi"			"禁言/禁音玩家"
+	}
+	
+	"Choose Type"
+	{
+		"en"			"Choose Type"
+		"zho"			"選擇類型"
+		"chi"			"选择类型"
+	}
+	
+	"Gagged target"
+	{
+		"#format"		"{1:t}"
+		"en"			"Gagged {1}."
+		"zho"			"禁言 {1}"
+		"chi"			"禁言 {1}"
+	}
+	
+	"Ungagged target"
+	{
+		"#format"		"{1:t}"
+		"en"			"Ungagged {1}."
+		"zho"			"解除禁言 {1}"
+		"chi"			"解除禁言 {1}"
+	}
+	
+	"Muted target"
+	{
+		"#format"		"{1:t}"
+		"en"			"Muted {1}."
+		"zho"			"禁音 {1}"
+		"chi"			"禁音 {1}"
+	}
+	
+	"Unmuted target"
+	{
+		"#format"		"{1:t}"
+		"en"			"Unmuted {1}."
+		"zho"			"解除禁音 {1}"
+		"chi"			"解除禁音 {1}"
+	}
+	
+	"Silenced target"
+	{
+		"#format"		"{1:t}"
+		"en"			"Silenced {1}."
+		"zho"			"同時禁言和禁音 {1}"
+		"chi"			"同时禁言和禁音 {1}"
+	}
+	
+	"Unsilenced target"
+	{
+		"#format"		"{1:t}"
+		"en"			"Unsilenced {1}."
+		"zho"			"解除同時禁言/禁音 {1}"
+		"chi"			"解除同时禁言/禁音 {1}"
+	}
+	
+	"Mute Player"
+	{
+		"en"			"Mute Player"
+		"zho"			"禁音玩家"
+		"chi"			"禁音玩家"
+	}
+	
+	"UnMute Player"
+	{
+		"en"			"UnMute Player"
+		"zho"			"解除禁音玩家"
+		"chi"			"解除禁音玩家"
+	}
+	
+	"Gag Player"
+	{
+		"en"			"Gag Player"
+		"zho"			"禁言玩家"
+		"chi"			"禁言玩家"
+	}
+	
+	"UnGag Player"
+	{
+		"en"			"UnGag Player"
+		"zho"			"解除禁言玩家"
+		"chi"			"解除禁言玩家"
+	}
+	
+	"Silence Player"
+	{
+		"en"			"Silence Player"
+		"zho"			"同時禁言/禁音玩家"
+		"chi"			"同时禁言/禁音玩家"
+	}
+	
+	"UnSilence Player"
+	{
+		"en"			"UnSilence Player"
+		"zho"			"解除同時禁言/禁音玩家"
+		"chi"			"解除同时禁言/禁音玩家"
+	}
+}

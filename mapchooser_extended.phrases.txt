@@ -1,0 +1,226 @@
+"Phrases"
+{
+	"Vote Nextmap"
+	{
+		"en"			"Vote for the next map!"
+		"zho"			"下一張圖投票選擇"
+		"chi"			"下一张图投票选择"
+	}
+
+	"Nextmap Voting Started"
+	{
+		"en"			"Voting for next map has started."
+		"zho"			"開始下一張圖的投票"
+		"chi"			"开始下一张图的投票"
+	}
+
+	"Nextmap Voting Finished"
+	{
+		"#format"			"{1:s},{2:i},{3:i}"
+		"en"			"Map voting has finished. The next map will be {1}. (Received {2}%% of {3} votes)"
+		"zho"			"地圖投票結束，下一張圖將會是 {1} (得票率 {2}%% 有 {3} 投票者)"
+		"chi"			"地图投票结束，下一张图将会是 {1} (得票率 {2}%% 有 {3} 投票者)"
+	}
+
+	"Current Map Extended"
+	{
+		"#format"			"{1:i},{2:i}"
+		"en"			"The current map has been extended. (Received {1}%% of {2} votes)"
+		"zho"			"地圖將被延長! (得票率 {1}%% 有{2}投票者)"
+		"chi"			"地图将被延长! (得票率 {1}%% 有{2}投票者)"
+	}
+
+	"Extend Map"
+	{
+		"en"			"Extend Current Map"
+		"zho"			"延長目前地圖"
+		"chi"			"延长目前地图"
+	}
+
+	"Dont Change"
+	{
+		"en"			"Don't Change"
+		"zho"			"不要換圖"
+		"chi"			"不要换图"
+	}
+
+	"Current Map Stays"
+	{
+		"#format"			"{1:i},{2:i}"
+		"en"			"Current map continues! The Vote has spoken! (Received {1}%% of {2} votes)"
+		"zho"			"地圖延長! 投票通過! (得票率 {1}%% 有{2}投票者)"
+		"chi"			"地图延长! 投票通过! (得票率 {1}%% 有{2}投票者)"
+	}
+
+	"Changed Next Map"
+	{
+		"#format"		"{1:s}"
+		"en"			"Changed nextmap to \"{1}\"."
+		"zho"			"改變下一張圖的地圖為 {1}"
+		"chi"			"改变下一张图的地图为 {1}"
+	}
+
+	"Runoff Vote Nextmap"
+	{
+		"en"			"Runoff Vote for the next map!"
+		"zho"			"開始為下一張圖投票"
+		"chi"			"开始为下一张图投票"
+	}
+
+	"Number Of Votes"
+	{
+		"en"			"Number of votes"
+		"zho"			"投票數量"
+		"chi"			"投票数量"
+	}
+
+	"Custom"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} (Custom)"
+		"zho"			"{1} (自製)"
+		"chi"			"{1} (自製)"
+	}
+
+	"Revote Is Needed"
+	{
+		"#format"		"{1:i}"
+		"en"			"No map has received more than {1}%% of the vote.\nSo, which map will win? A revote is needed!"
+		"zho"			"沒有地圖得票率超過{1}%%，哪張圖將會獲勝呢。將會再投票一次"
+		"chi"			"没有地图得票率超过{1}%%，哪张图将会获胜呢。将会再投票一次"
+	}
+
+	"Revote Warning"
+	{
+		"#format"		"{1:i}"
+		"en"			"Runoff vote will start in: {1}s"
+		"zho"			"投票將在 {1} 秒後開始"
+		"chi"			"投票将在 {1} 秒后开始"
+	}
+
+	"Vote Warning"
+	{
+		"#format"		"{1:i}"
+		"en"			"Warning! Voting for the next map will begin in: {1}s"
+		"zho"			"警告!投票將在 {1} 秒後開始"
+		"chi"			"警告!投票将在 {1} 秒后开始"
+	}
+
+	"Line One"
+	{
+		"en"			"Consider which map you want to play..."
+		"zho"			"仔細選擇你想要什麼圖"
+		"chi"			"仔细选择你想要什麽图"
+	}
+
+	"Line Two"
+	{
+		"en"			"...and don't hit buttons thoughtlessly ;-)"
+		"zho"			"...不要亂選唷"
+		"chi"			"...不要乱选唷"
+	}
+
+	"Cannot Start Vote"
+	{
+		"#format"		"{1:i}"
+		"en"			"Vote already in progress.  Retrying in {1}s."
+		"zho"			"目前已經有投票了，請再 {1} 秒後重試"
+		"chi"			"目前已经有投票了，请再 {1} 秒后重试"
+	}
+
+	"Tie Vote"
+	{
+		"#format"		"{1:i}"
+		"en"			"The top {1} maps had the same number of votes.\nA revote is needed!"
+		"zho"			"有 {1} 張地圖有相同且最多投票數\n我們將重新投票"
+		"chi"			"有 {1} 张地图有相同且最多投票数\n我们将重新投票"
+	}
+
+	"Custom Marked"
+	{
+		"#format"		"{1:s}"
+		"en"			"*{1}"
+		"zho"			"*{1}"
+		"chi"			"*{1}"
+	}
+
+	"Map Nominate Time Error"
+	{
+		"#format"		"{1:d},{2:d}"
+		"en"			"You can only nominate this map in {1} hours and {2} minutes."
+		"zho"			"您只能在 {1} 小時和 {2} 分鐘後提名這張圖"
+		"chi"			"您只能在 {1} 小时和 {2} 分钟后提名这张图"
+	}
+
+	"Map Nominate MinPlayers Error"
+	{
+		"#format"		"{1:d}"
+		"en"			"Map requires {1} more players."
+		"zho"			"地圖需要 {1} 名玩家才能提名"
+		"chi"			"地图需要 {1} 名玩家才能提名"
+	}
+
+	"Map Nominate MaxPlayers Error"
+	{
+		"#format"		"{1:d}"
+		"en"			"Map requires {1} less players."
+		"zho"			"地圖需要少於 {1} 名玩家才能提名"
+		"chi"			"地图需要少于 {1} 名玩家才能提名"
+	}
+
+	"Map Nominate Group Error"
+	{
+		"#format"		"{1:d}"
+		"en"			"The maximum amount ({1}) of maps from this group has already been nominated."
+		"zho"			"不好意思，這張圖的新版本或舊版本已被提名"
+		"chi"			"不好意思，这张图的新版本或旧版本已被提名"
+	}
+
+	"Map Time Restriction"
+	{
+		"#format"		"{1:s},{2:d},{3:d}"
+		"en"			"Time{1}{2}H{3}M"
+		"zho"			"時間{1}{2}時{3}分"
+		"chi"			"时间{1}{2}时{3}分"
+	}
+
+	"Map Player Restriction"
+	{
+		"#format"		"{1:s},{2:d}"
+		"en"			"Players{1}{2}"
+		"zho"			"玩家{1}{2}"
+		"chi"			"玩家{1}{2}"
+	}
+
+	"Map Group Restriction"
+	{
+		"#format"		"{1:d}"
+		"en"			"Group max: {1}"
+		"zho"			"群組最多: {1}"
+		"chi"			"群组最多: {1}"
+	}
+
+	"Nomination Removed Time Error"
+	{
+		"#format"		"{1:s}"
+		"en"			"Your nomination {1} has been removed because it doesn't meet the time requirements."
+		"zho"			"您的提名 {1} 已被移除因為此張地圖提名有時間限制(例如早上9點到下午3點)"
+		"chi"			"您的提名 {1} 已被移除因为此张地图提名有时间限制(例如早上9点到下午3点)"
+	}
+
+	"Nomination Removed MinPlayers Error"
+	{
+		"#format"		"{1:s}"
+		"en"			"Your nomination {1} has been removed because it doesn't meet the minimum player requirements."
+		"zho"			"您的提名 {1} 已被移除因為伺服器人數未達最低標準"
+		"chi"			"您的提名 {1} 已被移除因为伺服器人数未达最低标准"
+	}
+
+	"Nomination Removed MaxPlayers Error"
+	{
+		"#format"		"{1:s}"
+		"en"			"Your nomination {1} has been removed because it exceeds the maximum player restriction."
+		"zho"			"您的提名 {1} 已被移除因為伺服器人數過多超出標準"
+		"chi"			"您的提名 {1} 已被移除因为伺服器人数过多超出标准"
+	}
+}

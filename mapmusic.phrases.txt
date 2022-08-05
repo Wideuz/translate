@@ -1,0 +1,86 @@
+"Phrases"
+{
+	"Cookie_Menu"
+	{
+		"en"	"Map Music"
+		"ru"	"Музыка на карте"
+		"zho"	"地圖音樂"
+		"chi"	"地图音乐"
+	}
+
+	"Text_MapMusicEnable"
+	{
+		"en"	"Map music is {lightgreen}Enabled{default}."
+		"ru"	"Музыка на карте {lightgreen}Включена{default}."
+		"zho"	"地圖音樂{lightgreen}開啟"
+		"chi"	"地图音乐{lightgreen}开启"
+	}
+
+	"Text_MapMusicDisable"
+	{
+		"en"	"Map music is {red}Disabled{default}."
+		"ru"	"Музыка на карте {red}Отключена{default}."
+		"zho"	"地圖音樂{red}關閉"
+		"chi"	"地图音乐{red}关闭"
+	}
+
+	"Text_MapMusicVolume"
+	{
+		"#format"	"{1:d}"
+
+		"en"	"Map music is {lightgreen}Enabled{default}. Volume: {lightgreen}{1}"
+		"ru"	"Музыка на карте {lightgreen}Включена{default}. Громкость: {lightgreen}{1}"
+		"zho"	"地圖音樂{lightgreen}開啟{default} 音量: {lightgreen}{1} "
+		"chi"	"地图音乐{lightgreen}开启{default} 音量: {lightgreen}{1}"
+	}
+
+	"Enabled"
+	{
+		"en"	"Enabled"
+		"ru"	"Включена"
+		"zho"	"開啟"
+		"chi"	"开启"
+	}
+
+	"Disabled"
+	{
+		"en"	"Disabled"
+		"ru"	"Отключена"
+		"zho"	"關閉"
+		"chi"	"关闭"
+	}
+
+	"Menu_Title"
+	{
+		"en"	"[MapMusic] Sound Control Menu"
+		"ru"	"[MapMusic] Меню управления музыкой"
+		"zho"	"[地圖音樂] 音樂控制介面"
+		"chi"	"[地图音乐] 音乐控制介面"
+	}
+
+	"Menu_AdjustDesc"
+	{
+		"en"	"You can use volume control instead of fully stopping\nFor adjust volume is \"!music <0-100>\""
+		"ru"	"Вы можете приглушить или выключить музыку на карте\nИспользуйте \"!music <0-100>\""
+		"zho"	"你可以使用指令控制音量不用特別完全關閉音樂\n指令\"!music <0-100>\""
+		"chi"	"你可以使用指令控制音量不用特别完全关闭音乐\n指令\"!music <0-100>\""
+	}
+
+	"Menu_Music"
+	{
+		"#format"	"{1:T}"
+		"en"	"Music: {1}"
+		"ru"	"Музыка: {1}"
+		"zho"	"地圖音樂: {1}"
+		"chi"	"地图音乐: {1}"
+	}
+
+	"Menu_Vol"
+	{
+		"#format"	"{1:d}"
+		"en"	"Volume: {1}"
+		"ru"	"Громкость: {1}"
+		"zho"	"音量: {1}"
+		"chi"	"音量: {1}"
+	}
+}

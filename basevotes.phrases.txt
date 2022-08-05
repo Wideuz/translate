@@ -1,0 +1,137 @@
+"Phrases"
+{
+	"Initiate Vote"
+	{
+		"#format"		"{1:s}"
+		"en"			"Initiated a vote: {1}"
+		"chi"			"开启投票: {1}"
+		"zho"			"開啟投票: {1}"
+	}
+	
+	"Initiated Vote Map"
+	{
+		"en"			"Initiated a map vote."
+		"chi"			"开启地图投票"
+		"zho"			"開啟地圖投票"
+	}	
+	
+	"Initiated Vote Kick"
+	{
+		"#format"		"{1:s}"
+		"en"			"Initiated a kick vote against {1}."
+		"chi"			"再次开启踢除投票 {1}"
+		"zho"			"再次開啟踢除投票 {1}"
+	}
+	
+	"Initiated Vote Ban"
+	{
+		"#format"		"{1:s}"
+		"en"			"Initiated a ban vote against {1}."
+		"chi"			"再次开启封禁投票 {1}"
+		"zho"			"再次開啟封禁投票 {1}"
+	}
+	
+	"Map Vote"
+	{
+		"#format"		"{1:s}"
+		"en"			"Map Vote: {1}"
+		"chi"			"地图投票: {1}"
+		"zho"			"地圖投票: {1}"
+	}
+
+	"Map Vote In Use"
+	{
+		"en"			"Another admin is currently using the map vote menu."
+		"chi"			"有名管理员正在使用/map地图指令"
+		"zho"			"有名管理員正在使用/map地圖指令"
+	}
+	
+	"Change Map To"
+	{
+		"#format"		"{1:s}"
+		"en"			"Change map to {1}?"
+		"chi"			"是否切换地图至 {1}?"
+		"zho"			"是否切換地圖至 {1}?"
+	}	
+
+	"Votekick Player"
+	{
+		"#format"		"{1:s}"
+		"en"			"Kick {1}?"
+		"chi"			"踢除 {1}?"
+		"zho"			"踢除 {1}?"
+	}
+
+	"Voteban Player"
+	{
+		"#format"		"{1:s}"
+		"en"			"Ban {1}?"
+		"chi"			"封禁 {1}"
+		"zho"			"封禁 {1}?"
+	}
+	
+	"Vote Successful"
+	{
+		"#format"		"{1:d},{2:d}"
+		"en"			"Vote successful. (Received {1}%% of {2} votes)"
+		"chi"			"投票成功! (投票率 {1}%% 有 {2} 名投票者)"
+		"zho"			"投票成功! (投票率 {1}%% 有 {2} 名投票者)"
+	}	
+	
+	"Vote Failed"
+	{
+		"#format"		"{1:d},{2:d},{3:d}"
+		"en"			"Vote failed. {1}%% vote required. (Received {2}%% of {3} votes)"
+		"chi"			"投票失败! 需要至少 {1}%% 同意 (投票率 {1}%% 有 {2} 名投票者)"
+		"zho"			"投票失敗! 需要至少 {1}%% 同意 (投票率 {1}%% 有 {2} 名投票者)"
+	}	
+
+	"Vote End"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"The answer to {1} is: {2}."
+		"chi"			"{1}投票结果为{2}"
+		"zho"			"{1}投票結果為{2}"
+	}
+	"Kick vote"
+	{
+		"en"			"Kick vote"
+		"chi"			"踢除投票"
+		"zho"			"踢除投票"
+	}
+
+	"Ban vote"
+	{
+		"en"			"Ban vote"
+		"chi"			"封禁投票"
+		"zho"			"封禁投票"
+	}
+
+	"Map vote"
+	{
+		"en"			"Map vote"
+		"chi"			"地图投票"
+		"zho"			"地圖投票"
+	}
+
+	"Confirm Vote"
+	{
+		"en"			"Confirm Vote"
+		"chi"			"确认投票"
+		"zho"			"確認投票"
+	}
+	
+	"Please select a map"
+	{
+		"en"			"Please select a map"
+		"chi"			"请选择一张地图"
+		"zho"			"請選擇一張地圖"
+	}
+	
+	"Start the Vote"
+	{
+		"en"			"Start the Vote"
+		"chi"			"开始投票"
+		"zho"			"開始投票"
+	}
+}

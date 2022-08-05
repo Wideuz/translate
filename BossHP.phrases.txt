@@ -1,0 +1,122 @@
+"Phrases"
+{
+	"prefix"
+	{
+		"en" 	"{green}[BossHP]"
+		"th"	"{green}[BossHP]"
+		"chi"	"{green}[BossHP]"
+		"zho"	"{green}[BossHP]"
+	}
+	"RoundStart_Message_CSGO"
+	{
+		"en" 	"{default}This map is supported by this plugin. Shoot the boss will add your {green}[Assists] {default}count."
+		"th"	"{default}แมพปัจจุบันถูกรองรับโดยปลั๊กอินนี้ การทำดาเมจกับบอสจะทำได้รับค่าสกอร์ {green}[Assists] {default}เพิ่มขึ้น."
+		"chi"	"{default}此地图在插件支援列表，对Boss进行射击的话{green}[Assists协助击杀数]{default}会记录你射击击中数字"
+		"zho"	"{default}此地圖在插件支援列表，對Boss進行射擊的話{green}[Assists協助擊殺數]{default}會記錄你射擊擊中數字"
+	}
+	"RoundStart_Message_CSS"
+	{
+		"en" 	"{white}This map is supported by this plugin. Shoot the boss will add your {green}[Death] {white}count."
+		"th"	"{white}แมพปัจจุบันถูกรองรับโดยปลั๊กอินนี้ การทำดาเมจกับบอสจะทำได้รับค่าสกอร์ {green}[Death] {white}เพิ่มขึ้น."
+		"chi"	"{default}此地图在插件支援列表，对Boss进行射击的话{green}[Death死亡数]{default}会记录你射击击中数字"
+		"zho"	"{default}此地圖在插件支援列表，對Boss進行射擊的話{green}[Death死亡數]{default}會記錄你射擊擊中數字"
+	}
+	"DamageRank_Title"
+	{
+		"en" 	"*** Top Boss Damaging ***"
+		"th"	"*** อันดับผู้ทำดาเมจเยอะที่สุด ***"
+		"chi"	"*** 前几名玩家对Boss伤害 ***"
+		"zho"	"*** 前幾名玩家對Boss傷害 ***"
+	}
+	"Dead"
+	{
+		"en" 	"Dead"
+		"th"	"บอสตายแล้ว"
+		"chi"	"倒下"
+		"zho"	"倒下"
+	}
+	"Cookies_MenuName"
+	{
+		"en"	"[BossHP] Toggle Showing Boss Health"
+		"th"	"[BossHP] ตั้งค่าแสดงเลือดบอส"
+		"chi"	"[BossHP] 切换是否显示Boss血量"
+		"zho"	"[BossHP] 切換是否顯示Boss血量"
+	}
+	"Toggle_BossHP"
+	{
+		"en"	"{default}Showing Boss Damage is now"
+		"th"	"{default}ตัวแสดงเลือดของบอส"
+		"chi"	"{default}现在会显示Boss伤害"
+		"zho"	"{default}現在會顯示Boss傷害"
+	}
+	"Toggle_BHud"
+	{
+		"en"	"{default}Showing Any Breakable Damage is now"
+		"th"	"{default}ตัวแสดงเลือดสิ่งของอื่นใดๆ"
+		"chi"	"{default}现在会显示对于任何可破坏物件伤害"
+		"zho"	"{default}現在會顯示對於任何可破壞物件傷害"
+	}
+	"Toggle_Hitmarker"
+	{
+		"en"	"{default}Hitmarker is now"
+		"th"	"{default}ตัว Hitmarker"
+		"chi"	"{default}Hitmarker启动"
+		"zho"	"{default}Hitmarker啟動"
+	}
+	"Menu_BossHP"
+	{
+		"en"	"Showing BossHP"
+		"th"	"แสดงเลือดบอส"
+		"chi"	"显示Boss血量"
+		"zho"	"顯示Boss血量"
+	}
+	"Menu_BHud"
+	{
+		"en"	"Showing Any Breakable"
+		"th"	"แสดงเลือดสิ่งของ"
+		"chi"	"显示任何可破坏物件"
+		"zho"	"顯示任何可破壞物件"
+	}
+	"Menu_Hitmarker"
+	{
+		"en"	"Hitmarker"
+		"th"	"Hitmarker"
+		"chi"	"Hitmarker(击中显示)"
+		"zho"	"Hitmarker(擊中顯示)"
+	}
+	"Reload_Config"
+	{
+		"en"	"Config Reloaded."
+		"th"	"โหลด Config สำเร็จ"
+		"chi"	"重新读取Config"
+		"zho"	"重新讀取Config"
+	}
+	"Save_Config"
+	{
+		"en"	"Config Saved."
+		"th"	"บันทึก Config สำเร็จ"
+		"chi"	"储存Config"
+		"zho"	"儲存Config"
+	}
+	"HITs"
+	{
+		"en"	"HITs"
+		"th"	"ครั้ง"
+		"chi"	"命中"
+		"zho"	"命中"
+	}
+	"Enabled"
+	{
+		"en"	"Enabled"
+		"th"	"ถูกเปิดแล้ว"
+		"chi"	"开启"
+		"zho"	"開啟"
+	}
+	"Disabled"
+	{
+		"en"	"Disabled"
+		"th"	"ถูกปิดแล้ว"
+		"chi"	"关闭"
+		"zho"	"關閉"
+	}
+}

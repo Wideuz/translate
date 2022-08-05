@@ -1,0 +1,64 @@
+"Phrases"
+{
+	"Sounds On Chat"
+	{
+		"en"		"{green}[Weapons] {olive}Sound from other players weapons is now {green}ON"
+		"chi"		"{green}[Weapons] {olive}其他玩家武器的声音{green}开启"
+		"zho"		"{green}[Weapons] {olive}其他玩家武器的聲音{green}開啟"
+	}
+	"Sounds Off Chat"
+	{
+		"en"		"{green}[Weapons] {olive}Sound from other players weapons is now {red}OFF"
+		"chi"		"{green}[Weapons] {olive}其他玩家武器的声音{red}关闭"
+		"zho"		"{green}[Weapons] {olive}其他玩家武器的聲音{red}關閉"
+	}
+	"Sounds Silenced Chat"
+	{
+		"en"		"{green}[Weapons] {olive}Sound from other players weapons is now {blue}SILENCED"
+		"chi"		"{green}[Weapons] {olive}其他玩家武器的声音{blue}消音"
+		"zho"		"{green}[Weapons] {olive}其他玩家武器的聲音{blue}消音"
+	}
+	"Self sounds full chat"
+	{
+		"en"		"{green}[Weapons] {olive}Your weapon sounds are now {green}default volume"
+		"chi"		"{green}[Weapons] {olive}你自己武器的声音{green}正常"
+		"zho"		"{green}[Weapons] {olive}你自己武器的聲音{green}正常"
+	}
+	"Self sounds low chat"
+	{
+		"en"		"{green}[Weapons] {olive}Your weapon sounds are now {blue}low volume"
+		"chi"		"{green}[Weapons] {olive}你自己武器的声音{blue}消音"
+		"zho"		"{green}[Weapons] {olive}你自己武器的聲音{blue}消音"
+	}
+	"Self sounds off chat"
+	{
+		"en"		"{green}[Weapons] {olive}Your weapon sounds are now {red}muted"
+		"chi"		"{green}[Weapons] {olive}你自己武器的声音{red}关闭"
+		"zho"		"{green}[Weapons] {olive}你自己武器的聲音{red}關閉"
+	}
+	"Sounds On"
+	{
+		"en"		"Sounds ON"
+		"chi"		"开启声音"
+		"zho"		"開啟聲音"
+	}
+	"Sounds Off"
+	{
+		"en"		"Sounds OFF"
+		"chi"		"关闭声音"
+		"zho"		"關閉聲音"
+	}
+	"Sounds Silenced"
+	{
+		"en"		"Replace with silenced"
+		"chi"		"使用消音"
+		"zho"		"使用消音"
+	}
+	"Self Sounds"
+	{
+		"#format"	"{1:s}"
+		"en"		"Your weapon sounds: {1}"
+		"chi"		"武器声音调节: {1}"
+		"zho"		"武器聲音調節: {1}"
+	}
+}

@@ -1,0 +1,51 @@
+"Phrases"
+{
+	"Map History"
+	{
+		"en"		"Map History"
+		"zho"		"之前遊玩地圖"
+		"chi"		"之前游玩地图"
+	}
+
+	"Map"
+	{
+		"en"		"[Map]"
+		"zho"		"[地圖系統]"
+		"chi"		"[地图系统]"
+	}
+
+	"Started"
+	{
+		"en"		"[Started]"
+		"zho"		"[開始]"
+		"chi"		"[开始]"
+	}
+
+	"Played Time"
+	{
+		"en"		"[Played Time]"
+		"zho"		"[遊玩時間]"
+		"chi"		"[游玩时间]"
+	}
+
+	"Reason"
+	{
+		"en"		"[Reason for ending]"
+		"zho"		"[結束原因]"
+		"chi"		"[结束原因]"
+	}
+
+	"Current Map"
+	{
+		"en"		"Current Map"
+		"zho"		"現在地圖"
+		"chi"		"现在地图"
+	}
+
+	"ago"
+	{
+		"en"		"ago"
+		"zho"		"之前"
+		"chi"		"之前"
+	}
+}

@@ -1,0 +1,419 @@
+"Phrases"
+{
+	"WSMenuTitle"
+	{
+		"zho"	"武器面板選單"
+	}
+	"ChooseKnife"
+	{
+		"zho"	"★ 更換您的刀具 ★"
+	}
+	"ConfigAllWeapons"
+	{
+		"zho"	"配置所有武器"
+	}
+	"KnifeMenuTitle"
+	{
+		"zho"	"★ 選擇您的刀具 ★"
+	}
+	"AllWeaponsMenuTitle"
+	{
+		"zho"	"所有武器"
+	}
+	"Increase"
+	{
+		"zho"	"增加 %d%%"
+	}
+	"Decrease"
+	{
+		"zho"	"減少 %d%%"
+	}
+	"NameTagColor"
+	{
+		"zho"	"設定名稱標籤顏色"
+	}
+	"NameTagDisabled"
+	{
+		"zho"	"名稱標籤已禁用"
+	}
+	"ChooseLanguage"
+	{
+		"zho"	"請選擇面板名稱顯示語言："
+	}
+	"ChooseColor"
+	{
+		"zho"	"選擇一個顏色："
+	}
+	"DefaultColor"
+	{
+		"zho"	"預設"
+	}
+	"DefaultSkin"
+	{
+		"zho"	"預設"
+	}
+	"RandomSkin"
+	{
+		"zho"	"隨機"
+	}
+	"Black"
+	{
+		"zho"	"黑"
+	}
+	"Red"
+	{
+		"zho"	"紅"
+	}
+	"Green"
+	{
+		"zho"	"綠"
+	}
+	"Blue"
+	{
+		"zho"	"藍"
+	}
+	"DeleteNameTag"
+	{
+		"zho"	"刪除名稱標籤"
+	}
+	"OwnKnife"
+	{
+		"zho"	"★ 您自己的刀"
+	}
+	"SetSkin"
+	{
+		"zho"	"選擇面板"
+	}
+	"SetFloat"
+	{
+		"zho"	"武器磨損："
+	}
+	"StatTrak"
+	{
+		"zho"	"StatTrak™："
+	}
+	"SetNameTag"
+	{
+		"zho"	"名稱標籤"
+	}
+	"On"
+	{
+		"zho"	"開"
+	}
+	"Off"
+	{
+		"zho"	"關"
+	}
+	"weapon_galilar"
+	{
+		"zho"	"加利爾 AR"
+	}
+	"weapon_awp"
+	{
+		"zho"	"AWP"
+	}
+	"weapon_m4a1"
+	{
+		"zho"	"M4A4"
+	}
+	"weapon_m4a1_silencer"
+	{
+		"zho"	"M4A1 消音型"
+	}
+	"weapon_cz75a"
+	{
+		"zho"	"CZ75 自動手槍"
+	}
+	"weapon_revolver"
+	{
+		"zho"	"R8 左輪手槍"
+	}
+	"weapon_deagle"
+	{
+		"zho"	"沙漠之鷹"
+	}
+	"weapon_g3sg1"
+	{
+		"zho"	"G3SG1"
+	}
+	"weapon_scar20"
+	{
+		"zho"	"SCAR-20"
+	}
+	"weapon_sawedoff"
+	{
+		"zho"	"截短霰彈槍"
+	}
+	"weapon_negev"
+	{
+		"zho"	"內格夫"
+	}
+	"weapon_ssg08"
+	{
+		"zho"	"SSG 08"
+	}
+	"weapon_sg556"
+	{
+		"zho"	"SG 553"
+	}
+	"weapon_nova"
+	{
+		"zho"	"新星"
+	}
+	"weapon_xm1014"
+	{
+		"zho"	"XM1014"
+	}
+	"weapon_p90"
+	{
+		"zho"	"P90"
+	}
+	"weapon_p250"
+	{
+		"zho"	"P250"
+	}
+	"weapon_fiveseven"
+	{
+		"zho"	"FN57"
+	}
+	"weapon_aug"
+	{
+		"zho"	"AUG"
+	}
+	"weapon_elite"
+	{
+		"zho"	"雙槍貝瑞塔"
+	}
+	"weapon_m249"
+	{
+		"zho"	"M249"
+	}
+	"weapon_mac10"
+	{
+		"zho"	"MAC-10"
+	}
+	"weapon_mag7"
+	{
+		"zho"	"MAG-7"
+	}
+	"weapon_mp7"
+	{
+		"zho"	"MP7"
+	}
+	"weapon_mp9"
+	{
+		"zho"	"MP9"
+	}
+	"weapon_tec9"
+	{
+		"zho"	"Tec-9"
+	}
+	"weapon_ump45"
+	{
+		"zho"	"UMP-45"
+	}
+	"weapon_ak47"
+	{
+		"zho"	"AK-47"
+	}
+	"weapon_bizon"
+	{
+		"zho"	"PP-野牛"
+	}
+	"weapon_usp_silencer"
+	{
+		"zho"	"USP-S"
+	}
+	"weapon_hkp2000"
+	{
+		"zho"	"P2000"
+	}
+	"weapon_famas"
+	{
+		"zho"	"FAMAS"
+	}
+	"weapon_glock"
+	{
+		"zho"	"格洛克18型"
+	}
+	"weapon_mp5sd"
+	{
+		"zho"	"MP5-SD"
+	}
+	"weapon_bayonet"
+	{
+		"zho"	"★ 刺刀"
+	}
+	"weapon_knife_gut"
+	{
+		"zho"	"★ 穿腸刀"
+	}
+	"weapon_knife_flip"
+	{
+		"zho"	"★ 摺疊刀"
+	}
+	"weapon_knife_m9_bayonet"
+	{
+		"zho"	"★ M9 刺刀"
+	}
+	"weapon_knife_karambit"
+	{
+		"zho"	"★ 爪子刀"
+	}
+	"weapon_knife_tactical"
+	{
+		"zho"	"★ 獵殺者匕首"
+	}
+	"weapon_knife_butterfly"
+	{
+		"zho"	"★ 蝴蝶刀"
+	}
+	"weapon_knife_falzhoon"
+	{
+		"zho"	"★ 彎刀"
+	}
+	"weapon_knife_push"
+	{
+		"zho"	"★ 暗影雙匕"
+	}
+	"weapon_knife_survival_bowie"
+	{
+		"zho"	"★ 鮑伊獵刀"
+	}
+	"weapon_knife_ursus"
+	{
+		"zho"	"★ 熊刀"
+	}
+	"weapon_knife_gypsy_jackknife"
+	{
+		"zho"	"★ 折刀"
+	}
+	"weapon_knife_stiletto"
+	{
+		"zho"	"★ 短劍"
+	}
+	"weapon_knife_widowmaker"
+	{
+		"zho"	"★ 鋸齒爪刀"
+	}
+	"weapon_knife_css"
+	{
+		"zho"	"★ 海豹短刀"
+	}
+	"weapon_knife_cord"
+	{
+		"zho"	"★ 繫繩匕首"
+	}
+	"weapon_knife_canis"
+	{
+		"zho"	"★ 求生匕首"
+	}
+	"weapon_knife_outdoor"
+	{
+		"zho"	"★ 流浪者匕首"
+	}
+	"weapon_knife_skeleton"
+	{
+		"zho"	"★ 骷髏匕首"
+	}
+	"weapon_knife_t"
+	{
+		"zho"	"恐怖分子預設刀"
+	}
+	"weapon_knife"
+	{
+		"zho"	"恐怖分子預設刀"
+	}
+	"ChangeNameTag"
+	{
+		"zho"	"設定名稱標籤"
+	}
+	"NameTagNew"
+	{
+		"zho"	"你現在可以使用 !ws 指令設定名稱標籤。"
+	}
+	"GracePeriod"
+	{
+		"zho"	"你只能在你死後或開局 %d 秒後，使用 !ws 指令。"
+	}
+	"ChangeLang"
+	{
+		"zho"	"更改語言"
+	}
+	"NameTagCancelled"
+	{
+		"zho"	"名稱標籤設定中斷。"
+	}
+	"Yellow"
+	{
+		"zho"	"黃"
+	}
+	"NameTagInstruction"
+	{
+		"zho"	"請將你希望設定的名稱標籤輸入至聊天框。如需取消，請輸入 !cancel 。"
+	}
+	"NameTagSuccess"
+	{
+		"zho"	"名稱標籤已設定"
+	}
+	"SeedTitle"
+	{
+		"zho"	"圖案模板： %i"
+	}
+	"SeedTitleNoSeed"
+	{
+		"zho"	"圖案模板： ∞"
+	}
+	"SeedRandom"
+	{
+		"zho"	"使用隨機圖案模板編號"
+	}
+	"SeedManual"
+	{
+		"zho"	"手動設定圖案模板編號"
+	}
+	"SeedSave"
+	{
+		"zho"	"儲存當前圖案模板編號"
+	}
+	"SeedInstruction"
+	{
+		"zho"	"請將你希望設定的圖案模板編號輸入至聊天框。如需取消，請輸入 !cancel 。"
+	}
+	"SeedSuccess"
+	{
+		"zho"	"圖案模板應用成功！"
+	}
+	"SeedCancelled"
+	{
+		"zho"	"圖案模板設定中斷。"
+	}
+	"SeedFailed"
+	{
+		"zho"	"圖案模板編號無效 (0 - 8192)"
+	}
+	"SeedSaved"
+	{
+		"zho"	"圖案模板編號已儲存。"
+	}
+        "Seed"
+        {
+                "zho"   "圖案模板編號"
+	}
+	"SeedDisabled"
+	{
+		"zho"	"圖案模板選項已禁用"
+	}
+	"SeedExplanation"
+	{
+		"zho"	"你需要使用!ws選單來為面板設定圖案模板"
+	}
+	"SeedReset"
+	{
+		"zho"	"圖案模板已重置。"
+	}
+	"ResetSeed"
+	{
+		"zho"	"重置圖案模板"
+	}
+}

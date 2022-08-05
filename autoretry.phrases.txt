@@ -1,0 +1,83 @@
+"Phrases"
+{
+	"Auto Retry Tag"
+	{
+		"en"			"[AutoRetry]"
+		"ru"			"[АвтоРеконнект]"
+		"chi"			""
+		"zho"			"[自動重進]"
+	}
+	"Auto Retry Tag Color"
+	{
+		"en"			"{lightblue}[{green}AutoRetry{lightblue}]"
+		"ru"			"{lightblue}[{green}АвтоРеконнект{lightblue}]"
+		"chi"			""
+		"zho"			"{lightblue}[{green}自動重進{lightblue}]"
+	}
+	"Auto Retry Connected Time"
+	{
+		"#format"		"{1:d}"
+		"en"			"You connected for {1} seconds"
+		"ru"			"Вы присоединились за {1} секунд"
+		"chi"			""
+		"zho"			"您加入伺服器 {1} 秒"
+	}
+	"Auto Retry New Map"
+	{
+		"#format"		"{1:d}"
+		"en"			"You downloaded a new map. Retry after {1} seconds"
+		"ru"			"Вы скачали новую карту. Реконнект через {1} секунд"
+		"chi"			""
+		"zho"			"您下載了新地圖，將在 {1} 秒自動重進"
+	}
+	"Auto Retry New Map Color"
+	{
+		"#format"		"{1:d}"
+		"en"			"{default}You downloaded a new map. Retry after {red}{1} {default}seconds"
+		"ru"			"{default}Вы скачали новую карту. Реконнект через {red}{1} {default}секунд"
+		"chi"			""
+		"zho"			"{default}您下載了新地圖，將在{red}{1} {default}秒自動重進"
+	}
+	"Auto Retry Clear DB"
+	{
+		"en"			"{orange}You cleared the database"
+		"ru"			"{orange}Вы очистили базу данных"
+		"chi"			""
+		"zho"			"{orange}您清理了資料庫"
+	}
+	"Auto Retry Wait Cookies"
+	{
+		"en"			"{orange}Wait for the server to load cookies"
+		"ru"			"{orange}Ожидайте, когда сервер подгрузит куки"
+		"chi"			""
+		"zho"			"{orange}請等待伺服器讀取cookies"
+	}
+	"Auto Retry Enabled"
+	{
+		"en"			"{default}You have {green}enabled {default}automatic retry"
+		"ru"			"{default}Вы {green}включили {default}автоматический перезаход"
+		"chi"			""
+		"zho"			"{default}您已經{green}啟動了{default}自動重進系統"
+	}
+	"Auto Retry Disabled"
+	{
+		"en"			"{default}You have {green}disabled {default}automatic retry"
+		"ru"			"{default}Вы {red}отключили {default}автоматический перезаход"
+		"chi"			""
+		"zho"			"{default}您已經{green}關閉了{default}自動重進系統"
+	}
+	"Auto Retry Cookie Menu Enabled"
+	{
+		"en"			"AutoRetry [Enabled]"
+		"ru"			"АвтоРеконнект [Включён]"
+		"chi"			""
+		"zho"			"自動重進系統[啟動狀態]"
+	}
+	"Auto Retry Cookie Menu Disabled"
+	{
+		"en"			"AutoRetry [Disabled]"
+		"ru"			"АвтоРеконнект [Отключён]"
+		"chi"			""
+		"zho"			"自動重進系統[關閉狀態]""
+	}
+}
