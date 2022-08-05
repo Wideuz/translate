@@ -213,12 +213,14 @@
 		"#format"	"{1:s}"
 		"en"		"{green}{1} {default}Purchase weapon in Buyzone-only has been {lightgreen}enabled{default}."
 		"zho"		"{green}{1} {default}僅限購買區域購買武器{lightgreen}開啟{default}"
+		"chi"		"{green}{1} {default}仅限购买区域购买武器{lightgreen}开启{default}"
 	}
 	"buyzone_off"
 	{
 		"#format"	"{1:s}"
 		"en"		"{green}{1} {default}Purchase weapon in Buyzone-only has been {red}disabled{default}."
 		"zho"		"{green}{1} {default}僅限購買區域購買武器{red}關閉{default}"
+		"chi"		"{green}{1} {default}仅限购买区域购买武器{red}关闭{default}"
 	}
 	"Title_main"
 	{
