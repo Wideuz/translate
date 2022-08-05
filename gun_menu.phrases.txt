@@ -208,6 +208,32 @@
 		"zho"		"{green}{1} {default}您已經{red}關閉{default}了自動重新購買，下一回合您不會自動購買您保存的設定"
 		"chi"		"{green}{1} {default}您已经{red}关闭{default}了自动重新购买，下一回合您不会自动购买您保存的设定"
 	}
+	"buyzone_on"
+	{
+		"#format"	"{1:s}"
+		"en"		"{green}{1} {default}Purchase weapon in Buyzone-only has been {lightgreen}enabled{default}."
+		"zho"		"{green}{1} {default}僅限購買區域購買武器{lightgreen}開啟{default}"
+	}
+	"buyzone_off"
+	{
+		"#format"	"{1:s}"
+		"en"		"{green}{1} {default}Purchase weapon in Buyzone-only has been {red}disabled{default}."
+		"zho"		"{green}{1} {default}僅限購買區域購買武器{red}關閉{default}"
+	}
+	"Title_main"
+	{
+		"en"		"Main Menu"
+		"jp"		"メインメニュー"
+		"zho"		"主要菜單"
+		"chi"		"主要菜单"
+	}
+	"Menu_setting"
+	{
+		"en"		"Server Settings"
+		"jp"		"サーバー設定"
+		"zho"		"伺服器設定"
+		"chi"		"伺服器设定"
+	}
 	"Menu_buy"
 	{
 		"en"		"Buy Weapon"
@@ -238,10 +264,10 @@
 	}
 	"Menu_grenade"
 	{
-		"en"		"Grenade / Others"
-		"jp"		"グレネード / その他"
-		"zho"		"手榴彈 / 其他"
-		"chi"		"手榴弹 / 其他"
+		"en"		"Grenade"
+		"jp"		"グレネード"
+		"zho"		"手榴彈"
+		"chi"		"手榴弹"
 	}
 	"Menu_loadout_t"
 	{
@@ -291,6 +317,27 @@
 		"jp"		"手に持っている武器の弾補充 - (500$)"
 		"zho"		"補充您手持的武器彈藥 - (500元)"
 		"chi"		"补充您手持的武器弹药 - (500元)"
+	}
+	"Menu_loadout_s"
+	{
+		"en"		"Allow Loadout"
+		"jp"		"ロードアウトを許可"
+		"zho"		"允許使用武器設定"
+		"chi"		"允许使用武器设定"
+	}
+	"Menu_buyzone_s"
+	{
+		"en"		"BuyZone Only"
+		"jp"		"ゾーンのみを購入"
+		"zho"		"限定購買區域內"
+		"chi"		"限定购买区域内"
+	}
+	"Menu_restrict_s"
+	{
+		"en"		"Restrict Weapon"
+		"jp"		"制限武器"
+		"zho"		"限制武器"
+		"chi"		"限制武器"
 	}
 	"Usage_GetSlot"
 	{
