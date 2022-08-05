@@ -222,12 +222,33 @@
 		"zho"		"{green}{1} {default}僅限購買區域購買武器{red}關閉{default}"
 		"chi"		"{green}{1} {default}仅限购买区域购买武器{red}关闭{default}"
 	}
-	"Title_main"
+	"Title_Main"
 	{
 		"en"		"Main Menu"
 		"jp"		"メインメニュー"
 		"zho"		"主要菜單"
 		"chi"		"主要菜单"
+	}
+	"Title_WeaponType"
+	{
+		"en"		"Weapon Type Menu"
+		"jp"		"武器種メニュー"
+		"zho" 		"武器種類介面"
+		"chi" 		"武器种类介面"
+	}
+	"Title_Loadout"
+	{
+		"en"		"Loadout Menu"
+		"jp"		"装備メニュー"
+		"zho" 		"裝備設定介面"
+		"chi" 		"装备设定介面"
+	}
+	"Title_LoadoutOption"
+	{
+		"en"		"Edit Loadout Option \nChoose the option to changed it."
+		"jp"		"装備オプションの編集 \n変更するオプションを選択します。"
+		"zho"		"裝備設定選項 \n選取選項且變更它"
+		"chi"		"装备设定选项 \n选取选项且变更它"
 	}
 	"Menu_setting"
 	{
