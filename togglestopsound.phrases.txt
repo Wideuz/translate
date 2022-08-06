@@ -1,0 +1,87 @@
+"Phrases"
+{
+	"prefix"
+	{
+		"en"	"{green}[StopSound]{default}"
+		"chi"	"{green}[声音切换]{default}"
+		"zho"	"{green}[聲音切換]{default}"
+	}
+	"StopSound_Title"
+	{
+		"en"	"Toggle Stop Weapon Sound (!stopsound)"
+		"chi"	"切换武器声音 (输入!stopsound)"
+		"zho"	"切換武器聲音 (輸入!stopsound)"
+	}
+	"Client_Setting"
+	{
+		"en"	"Your current setting"
+		"chi"	"你现在的设定"
+		"zho"	"你現在的設定"
+	}
+	"Disable"
+	{
+		"en"	"Enable Sound"
+		"chi"	"开启声音"
+		"zho"	"開啟聲音"
+	}
+	"Stop Sound"
+	{
+		"en"	"Disable Sound"
+		"chi"	"关闭声音"
+		"zho"	"關閉聲音"
+	}
+	"Replace to Silenced Sound"
+	{
+		"en"	"Replace to Silenced Sound"
+		"chi"	"切换至消音"
+		"zho"	"切換至消音"
+	}
+	"stop weapon sounds"
+	{
+		"en"	"stop weapon sounds"
+		"chi"	"关闭武器声音"
+		"zho"	"關閉武器聲音"
+	}
+	"stop your own weapon sounds"
+	{
+		"en"	"stop your own weapon sounds"
+		"chi"	"关闭你自身武器声音"
+		"zho"	"關閉你自身武器聲音"
+	}
+	"Enabled"
+	{
+		"en"	"Enabled"
+		"chi"	"开启"
+		"zho"	"開啟"
+	}
+	"Disabled"	
+	{
+		"en"	"Disabled"
+		"chi"	"关闭"
+		"zho"	"關閉"
+	}
+	"Loading_Cookies"
+	{
+		"en"	"Your Cookies are not yet cached. Please try again later..."
+		"chi"	"你的 Cookies 还没有被读取，请稍后在尝试..."
+		"zho"	"你的 Cookies 還沒有被讀取，請稍後在嘗試..."
+	}
+	"Normal"
+	{
+		"en"	"Normal"
+		"chi"	"正常"
+		"zho"	"正常"
+	}
+	"Lowered"
+	{
+		"en"	"Lowered"
+		"chi"	"调低"
+		"zho"	"調低"
+	}
+	"Your Weapon Sound"
+	{
+		"en"	"Your Weapon Sound"
+		"chi"	"自身武器音量"
+		"zho"	"自身武器音量"
+	}
+}
