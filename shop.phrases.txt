@@ -475,8 +475,8 @@
 	"duration"
 	{
 		"en"		"Duration"
-		"chi"		"有期限"
-		"zho"		"有期限"
+		"chi"		"期限"
+		"zho"		"期限"
 	}
 
 	"forever"
