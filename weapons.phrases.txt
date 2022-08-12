@@ -3,10 +3,12 @@
 	"WSMenuTitle"
 	{
 		"zho"	"武器面板選單"
+		"jp"	"武器スキン"
 	}
 	"ChooseKnife"
 	{
 		"zho"	"★ 更換您的刀具 ★"
+		"jp"	"★ ナイフのスキン ★"
 	}
 	"ConfigAllWeapons"
 	{

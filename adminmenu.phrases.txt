@@ -5,6 +5,7 @@
 		"en"			"Admin Menu"
 		"zho"			"管理員介面"
 		"chi"			"管理员介面"
+		"jp"			"Admin Menu"
 	}
 	
 	"Player Commands"
@@ -12,6 +13,7 @@
 		"en"			"Player Commands"
 		"zho"			"玩家指令"
 		"chi"			"玩家指令"
+		"jp"			"Player Commands"
 	}
 
 	"Server Commands"
@@ -19,6 +21,7 @@
 		"en"			"Server Commands"
 		"zho"			"伺服器指令"
 		"chi"			"伺服器指令"
+		"jp"			"Server Commands"
 	}
 
 	"Voting Commands"
@@ -26,5 +29,6 @@
 		"en"			"Voting Commands"
 		"zho"			"投票指令"
 		"chi"			"投票指令"
+		"jp"			"投票関連のコマンド"
 	}
 }

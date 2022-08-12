@@ -5,6 +5,7 @@
 		"en"			"An admin has changed your name"
 		"chi"			"有管理员改了您的名称"
 		"zho"			"有管理員改了您的名稱"
+		"jp"			"Adminが貴方の名前を変更しました"
 	}
 
 	"Renamed target"
@@ -13,6 +14,7 @@
 		"en"			"Renamed {1}."
 		"chi"			"更改名称至 {1}"
 		"zho"			"更改名稱至 {1}"
+		"jp"			"Renamed {1}"
 	}
 
 	"Rename player"
@@ -20,6 +22,7 @@
 		"en"			"Rename player"
 		"chi"			"更改玩家名称"
 		"zho"			"更改玩家名稱"
+		"jp"			"Playerの名前を変更する"
 	}
 	
 	"Slap player"
@@ -27,6 +30,7 @@
 		"en"			"Slap player"
 		"chi"			"搧玩家巴掌"
 		"zho"			"搧玩家巴掌"
+		"jp"			"PlayerをSlapする"
 	}
 
 	"Slap damage"
@@ -34,6 +38,7 @@
 		"en"			"Slap damage"
 		"chi"			"巴掌的伤害"
 		"zho"			"巴掌的傷害"
+		"jp"			"Slapのダメージ"
 	}
 	
 	"Slay player"
@@ -41,6 +46,7 @@
 		"en"			"Slay player"
 		"chi"			"处死玩家"
 		"zho"			"處死玩家"
+		"jp"			"PlayerをSlayする"
 	}
 	
 	"Slapped target"
@@ -49,6 +55,7 @@
 		"en"			"Slapped {1}."
 		"chi"			"搧 {1} 一个巴掌"
 		"zho"			"搧 {1} 一個巴掌"
+		"jp"			"{1}がSlapされました"
 	}
 	
 	"Slayed target"
@@ -57,5 +64,6 @@
 		"en"			"Slayed {1}."
 		"chi"			"处死 {1}"
 		"zho"			"處死 {1}"
+		"jp"			"{1}がSlayされました"
 	}
 }

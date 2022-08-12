@@ -5,6 +5,7 @@
 		"en"			"Burn player"
 		"chi"			"点燃玩家"
 		"zho"			"點燃玩家"
+		"jp"			"Playerを燃やす"
 	}
 	
 	"FireBomb player"
@@ -12,6 +13,7 @@
 		"en"			"Firebomb player"
 		"chi"			"将玩家设置成火焰炸弹"
 		"zho"			"將玩家設置成火焰炸彈"
+		"jp"			"PlayerにFirebombをセットする"
 	}
 	
 	"Freeze player"
@@ -19,6 +21,7 @@
 		"en"			"Freeze player"
 		"chi"			"冰冻玩家"
 		"zho"			"冰凍玩家"
+		"jp"			"Playerをfreezeする"
 	}
 	
 	"FreezeBomb player"
@@ -26,6 +29,7 @@
 		"en"			"Freezebomb player"
 		"chi"			"将玩家设置成冰冻炸弹"
 		"zho"			"將玩家設置成冰凍炸彈"
+		"jp"			"Playerにfreezebombをセットする"
 	}	
 	
 	"TimeBomb player"
@@ -33,6 +37,7 @@
 		"en"			"Timebomb player"
 		"chi"			"将玩家设置成定时炸弹"
 		"zho"			"將玩家設置成定時炸彈"
+		"jp"			"PlayerにTimebombをセットする"
 	}	
 	
 	"Beacon player"
@@ -40,6 +45,7 @@
 		"en"			"Beacon player"
 		"chi"			"给玩家点灯"
 		"zho"			"給玩家點燈"
+		"jp"			"PlayerにBeaconをセットする"
 	}
 	
 	"NoClip player"
@@ -47,6 +53,7 @@
 		"en"			"NoClip player"
 		"chi"			"给与玩家穿牆"
 		"zho"			"給與玩家穿牆"
+		"jp"			"PlayerにNoclipをセットする"
 	}
 	
 	"Blind player"
@@ -54,6 +61,7 @@
 		"en"			"Blind player"
 		"chi"			"致盲玩家"
 		"zho"			"致盲玩家"
+		"jp"			"PlayerをBlindにする"
 	}
 	
 	"Drug player"
@@ -61,6 +69,7 @@
 		"en"			"Drug player"
 		"chi"			"给玩家下药"
 		"zho"			"給玩家下藥"
+		"jp"			"PlayerをDrugする"
 	}
 	
 	"Gravity player"
@@ -68,6 +77,7 @@
 		"en"			"Gravity player"
 		"chi"			"设定玩家重力"
 		"zho"			"設定玩家重力"
+		"jp"			"Playerの重力"
 	}
 	
 	"Blind amount"
@@ -75,6 +85,7 @@
 		"en"			"How blind?"
 		"chi"			"多盲?"
 		"zho"			"多盲?"
+		"jp"			"How blind?"
 	}
 	
 	"Fully blind"
@@ -82,6 +93,7 @@
 		"en"			"Fully blind"
 		"chi"			"全盲"
 		"zho"			"全盲"
+		"jp"			"真っ暗"
 	}
 	
 	"Half blind"
@@ -89,6 +101,7 @@
 		"en"			"Half blind"
 		"chi"			"半盲"
 		"zho"			"半盲"
+		"jp"			"薄暗く"
 	}
 	
 	"No blind"
@@ -96,6 +109,7 @@
 		"en"			"No blind"
 		"chi"			"解除致盲"
 		"zho"			"解除致盲"
+		"jp"			"普通"
 	}
 	
 	"Gravity amount"
@@ -103,6 +117,7 @@
 		"en"			"Gravity?"
 		"chi"			"重力要设定多少?"
 		"zho"			"重力要設定多少?"
+		"jp"			"Gravity?"
 	}
 	
 	"Gravity Very High"
@@ -110,6 +125,7 @@
 		"en"			"Gravity Very High"
 		"chi"			"异常高"
 		"zho"			"異常高"
+		"jp"			"とても高い重力"
 	}
 	
 	"Gravity High"
@@ -117,6 +133,7 @@
 		"en"			"Gravity High"
 		"chi"			"高"
 		"zho"			"高"
+		"jp"			"高めの重力"
 	}
 	
 	"Gravity Normal"
@@ -124,6 +141,7 @@
 		"en"			"Gravity Normal"
 		"chi"			"普通"
 		"zho"			"普通"
+		"jp"			"普通の重力"
 	}
 	
 	"Gravity Low"
@@ -131,6 +149,7 @@
 		"en"			"Gravity Low"
 		"chi"			"低"
 		"zho"			"低"
+		"jp"			"低めの重力"
 	}
 	
 	"Gravity Very Low"
@@ -138,6 +157,7 @@
 		"en"			"Gravity Very Low"
 		"chi"			"超低"
 		"zho"			"超低"
+		"jp"			"とても低い重力"
 	}
 	
 	"Set target on fire"
@@ -146,6 +166,7 @@
 		"en"			"Set {1} on fire."
 		"chi"			"设定 {1} 着火"
 		"zho"			"設定 {1} 著火"
+		"jp"			"{1}を炎上させました"
 	}
 	
 	"Toggled FireBomb on target"
@@ -154,6 +175,7 @@
 		"en"			"toggled firebomb on {1}."
 		"chi"			"将 {1} 设定燃烧炸弹"
 		"zho"			"將 {1} 設定燃燒炸彈"
+		"jp"			"{1}にTimebombをセットしました"
 	}	
 
 	"Froze target"
@@ -162,6 +184,7 @@
 		"en"			"froze {1}."
 		"chi"			"冰冻 {1}"
 		"zho"			"冰凍 {1}"
+		"jp"			"{1}を凍らせました"
 	}
 	
 	"Unfrozen"
@@ -169,6 +192,7 @@
 		"en"			"You are now unfrozen."
 		"chi"			"您现在解除冰冻状态了"
 		"zho"			"您現在解除冰凍狀態了"
+		"jp"			"貴方の凍結は解除されました"
 	}
 	
 	"You will be unfrozen"
@@ -177,6 +201,7 @@
 		"en"			"You will be unfrozen in {1} seconds."
 		"chi"			"您将在 {1} 秒后解除冰冻状态"
 		"zho"			"您將在 {1} 秒後解除冰凍狀態"
+		"jp"			"{1}秒後に凍結が解除されます"
 	}
 	
 	"Toggled FreezeBomb on target"
@@ -185,6 +210,7 @@
 		"en"			"toggled freezebomb on {1}."
 		"chi"			"将 {1} 设定冰冻炸弹"
 		"zho"			"將 {1} 設定冰凍炸彈"
+		"jp"			"{1}にFreezebombをセットしました"
 	}	
 	
 	"Toggled beacon on target"
@@ -193,6 +219,7 @@
 		"en"			"toggled beacon on {1}."
 		"chi"			"将 {1} 设定点灯"
 		"zho"			"將 {1} 設定點燈"
+		"jp"			"{1}にBeaconをセットしました"
 	}
 	
 	"Toggled TimeBomb on target"
@@ -201,6 +228,7 @@
 		"en"			"toggled timebomb on {1}."
 		"chi"			"将 {1} 设定定时炸弹"
 		"zho"			"將 {1} 設定定時炸彈"
+		"jp"			"{1}にTimebombをセットしました"
 	}
 
 	"Toggled noclip on target"
@@ -209,6 +237,7 @@
 		"en"			"toggled noclip on {1}."
 		"chi"			"将 {1} 设定穿牆模式"
 		"zho"			"將 {1} 設定穿牆模式"
+		"jp"			"{1}のNoclipを有効にしました"
 	}
 	
 	"Toggled drug on target"
@@ -217,6 +246,7 @@
 		"en"			"toggled drugs on {1}."
 		"chi"			"将 {1} 下药"
 		"zho"			"將 {1} 下藥"
+		"jp"			"{1}にdrugsをセットしました"
 	}	
 	
 	"Set blind on target"
@@ -225,6 +255,7 @@
 		"en"			"used blind on {1}."
 		"chi"			"让 {1} 致盲"
 		"zho"			"讓 {1} 致盲"
+		"jp"			"{1}は現在blindです"
 	}
 	
 	"Set gravity on target"
@@ -233,6 +264,7 @@
 		"en"			"set {1}'s gravity."
 		"chi"			"设定 {1} 的重力"
 		"zho"			"設定 {1} 的重力"
+		"jp"			"{1}の重力を変更しました"
 	}	
 	
 	"Till Explodes"
@@ -241,5 +273,6 @@
 		"en"			"{2} seconds until {1} explodes."
 		"chi"			"还有 {2} 秒 {1} 将会爆炸"
 		"zho"			"還有 {2} 秒 {1} 將會爆炸"
+		"jp"			"{1}の爆発まで{2}秒"
 	}
 }

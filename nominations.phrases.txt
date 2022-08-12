@@ -5,6 +5,7 @@
 		"en"			"You have already nominated a map."
 		"zho"			"您已經有提名一張地圖了"
 		"chi"			"您已经有提名一张地图了"
+		"jp"			"貴方はすでにマップをノミネートしています"
 	}
 	
 	"Max Nominations"
@@ -12,6 +13,7 @@
 		"en"			"The maximum allowed nominations has been reached."
 		"zho"			"提名系統已經達到提名上限"
 		"chi"			"提名系统已经达到提名上限"
+		"jp"			"ノミネートの上限に達しました"
 	}
 
 	"Map Already In Vote"
@@ -20,6 +22,7 @@
 		"en"			"Map '{1}' already in the nominations list."
 		"zho"			"地圖 '{1}' 已經在提名列表了"
 		"chi"			"地图 '{1}' 已经在提名列表了"
+		"jp"			"マップ '{1}'は既にリストに入っています"
 	}
 
 	"Map Inserted"
@@ -28,6 +31,7 @@
 		"en"			"Map '{1}' added to the nominations list."
 		"zho"			"地圖 '{1}' 加入進提名系統名單"
 		"chi"			"地图 '{1}' 加入进提名系统名单"
+		"jp"			"マップ '{1}'をリストに入れました"
 	}
 	
 	"Map Already Nominated"
@@ -35,6 +39,7 @@
 		"en"			"The map you chose has already been nominated."
 		"zho"			"您選擇的地圖已經被提名了"
 		"chi"			"您选择的地图已经被提名了"
+		"jp"			"貴方が選んだマップは既にノミネートされています"
 	}
 	
 	"Map Nominated"
@@ -43,6 +48,7 @@
 		"en"			"{1} has nominated {2}."
 		"zho"			"{1} 提名了 {2}"
 		"chi"			"{1} 提名了 {2}"
+		"jp"			"{1}が {2}をノミネートしました"
 	}
 
 	"Map Nomination Changed"
@@ -51,6 +57,7 @@
 		"en"			"{1} has changed his nomination to {2}."
 		"zho"			"{1} 改變了他的提名至 {2}"
 		"chi"			"{1} 改变了他的提名至 {2}"
+		"jp"			"{1}が {2}にノミネートを変更しました"
 	}
 	
 	"Nominate Title"
@@ -58,6 +65,7 @@
 		"en"			"Nominate Map:"
 		"zho"			"提名地圖:"
 		"chi"			"提名地图:"
+		"jp"			"Nominate Map:"
 	}
 
 	"Can't Nominate Current Map"
@@ -65,6 +73,7 @@
 		"en"			"The map you chose is the current map and cannot be nominated"
 		"zho"			"您正在遊玩你現在提名的地圖所以此提名不會加入至投票"
 		"chi"			"您正在游玩你现在提名的地图所以此提名不会加入至投票"
+		"jp"			"貴方が選んだマップは現在ノミネートできません"
 	}
 
 	"Map in Exclude List"
@@ -72,6 +81,7 @@
 		"en"			"The map you chose was recently played and cannot be nominated"
 		"zho"			"您選擇的地圖最近玩過了無法提名"
 		"chi"			"您选择的地图最近玩过了无法提名"
+		"jp"			"貴方が選んだマップは最近プレイしたためノミネートできません"
 	}
 
 	"Current Map"
@@ -79,6 +89,7 @@
 		"en"			"Current Map"
 		"zho"			"現在地圖"
 		"chi"			"现在地图"
+		"jp"			"現在のマップ"
 	}
 
 	"Recently Played"
@@ -86,6 +97,7 @@
 		"en"			"Recently Played"
 		"zho"			"最近遊玩過"
 		"chi"			"最近游玩过"
+		"jp"			"最近プレイしています"
 	}
 
 	"Nominated"
@@ -93,5 +105,6 @@
 		"en"			"Nominated"
 		"zho"			"提名"
 		"chi"			"提名"
+		"jp"			"ノミネート済み"
 	}
 }

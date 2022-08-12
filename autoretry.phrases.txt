@@ -4,80 +4,91 @@
 	{
 		"en"			"[AutoRetry]"
 		"ru"			"[АвтоРеконнект]"
-		"chi"			""
+		"chi"			"[自动重进]"
 		"zho"			"[自動重進]"
+		"jp"			"[自動リトライ]"
 	}
 	"Auto Retry Tag Color"
 	{
 		"en"			"{lightblue}[{green}AutoRetry{lightblue}]"
 		"ru"			"{lightblue}[{green}АвтоРеконнект{lightblue}]"
-		"chi"			""
+		"chi"			"{lightblue}[{green}自动重进{lightblue}]"
 		"zho"			"{lightblue}[{green}自動重進{lightblue}]"
+		"jp"			"{lightblue}[{green}自動リトライ{lightblue}]"
 	}
 	"Auto Retry Connected Time"
 	{
 		"#format"		"{1:d}"
 		"en"			"You connected for {1} seconds"
 		"ru"			"Вы присоединились за {1} секунд"
-		"chi"			""
+		"chi"			"您加入伺服器 {1} 秒"
 		"zho"			"您加入伺服器 {1} 秒"
+		"jp"			"貴方は{1}秒間接続しました"
 	}
 	"Auto Retry New Map"
 	{
 		"#format"		"{1:d}"
 		"en"			"You downloaded a new map. Retry after {1} seconds"
 		"ru"			"Вы скачали новую карту. Реконнект через {1} секунд"
-		"chi"			""
+		"chi"			"您下载了新地图，将在 {1} 秒自动重进"
 		"zho"			"您下載了新地圖，將在 {1} 秒自動重進"
+		"jp"			"新しいマップをダウンロードしたため{1}秒後に自動で再接続します"
 	}
 	"Auto Retry New Map Color"
 	{
 		"#format"		"{1:d}"
 		"en"			"{default}You downloaded a new map. Retry after {red}{1} {default}seconds"
 		"ru"			"{default}Вы скачали новую карту. Реконнект через {red}{1} {default}секунд"
-		"chi"			""
+		"chi"			"{default}您下载了新地图，将在{red}{1} {default}秒自动重进"
 		"zho"			"{default}您下載了新地圖，將在{red}{1} {default}秒自動重進"
+		"jp"			"{default}新しいマップをダウンロードしたため{red}{1} {default}秒後に再接続します"
 	}
 	"Auto Retry Clear DB"
 	{
 		"en"			"{orange}You cleared the database"
 		"ru"			"{orange}Вы очистили базу данных"
-		"chi"			""
+		"chi"			"{orange}您清理了资料库"
 		"zho"			"{orange}您清理了資料庫"
+		"jp"			"{orange}データを消去しました"
 	}
 	"Auto Retry Wait Cookies"
 	{
 		"en"			"{orange}Wait for the server to load cookies"
 		"ru"			"{orange}Ожидайте, когда сервер подгрузит куки"
-		"chi"			""
+		"chi"			"{orange}请等待伺服器读取cookies"
 		"zho"			"{orange}請等待伺服器讀取cookies"
+		"jp"			"{orange}cookiesをロードするまでお待ちください"
 	}
 	"Auto Retry Enabled"
 	{
 		"en"			"{default}You have {green}enabled {default}automatic retry"
 		"ru"			"{default}Вы {green}включили {default}автоматический перезаход"
-		"chi"			""
+		"chi"			"{default}您已经{green}启动了{default}自动重进系统"
 		"zho"			"{default}您已經{green}啟動了{default}自動重進系統"
+		"jp"			"{default}貴方は自動リトライを{green}有効 {default}にしました"
 	}
 	"Auto Retry Disabled"
 	{
 		"en"			"{default}You have {green}disabled {default}automatic retry"
 		"ru"			"{default}Вы {red}отключили {default}автоматический перезаход"
-		"chi"			""
+		"chi"			"{default}您已经{green}关闭了{default}自动重进系统"
 		"zho"			"{default}您已經{green}關閉了{default}自動重進系統"
+		"jp"			"{default}貴方は自動リトライを{green}無効 {default}にしました"
 	}
 	"Auto Retry Cookie Menu Enabled"
 	{
 		"en"			"AutoRetry [Enabled]"
 		"ru"			"АвтоРеконнект [Включён]"
-		"chi"			""
+		"chi"			"自动重进系统[启动状态]"
 		"zho"			"自動重進系統[啟動狀態]"
+		"jp"			"自動リトライ[有効]"
 	}
 	"Auto Retry Cookie Menu Disabled"
 	{
 		"en"			"AutoRetry [Disabled]"
 		"ru"			"АвтоРеконнект [Отключён]"
-		"chi"			""
-		"zho"			"自動重進系統[關閉狀態]""
+		"chi"			"自动重进系统[关闭状态]"
+		"zho"			"自動重進系統[關閉狀態]"
+		"jp"			"自動リトライ[無効]"
 	}
 }

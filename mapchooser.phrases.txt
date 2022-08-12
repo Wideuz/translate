@@ -5,6 +5,7 @@
 		"en"			"Vote for the next map!"
 		"zho"			"下一張圖的投票即將開始了"
 		"chi"			"下一张图的投票即将开始了"
+		"jp"			"次のマップを投票してください"
 	}	
 
 	"Nextmap Voting Started"
@@ -12,6 +13,7 @@
 		"en"			"Voting for next map has started."
 		"zho"			"開始下一張圖的投票"
 		"chi"			"开始下一张图的投票"
+		"jp"			"マップの投票が始まりました"
 	}	
 
 	"Nextmap Voting Finished"
@@ -20,6 +22,7 @@
 		"en"			"Map voting has finished. The next map will be {1}. (Received {2}%% of {3} votes)"
 		"zho"			"地圖投票結束，下一張圖將會是 {1} (得票率 {2}%% 有 {3} 投票者)"
 		"chi"			"地图投票结束，下一张图将会是 {1} (得票率 {2}%% 有 {3} 投票者)"
+		"jp"			"Map投票が終了しました。次のマップは{1}です。(投票{2}%% 中の {3} 票)"
 	}
 
 	"Current Map Extended"
@@ -28,6 +31,7 @@
 		"en"			"The current map has been extended. (Received {1}%% of {2} votes)"
 		"zho"			"地圖將被延長! (得票率 {1}%% 有{2}投票者)"
 		"chi"			"地图将被延长! (得票率 {1}%% 有{2}投票者)"
+		"jp"			"現在のマップが延長されました。(投票 {1}%% 中の {2} 票)"
 	}
 	
 	"Extend Map"
@@ -35,6 +39,7 @@
 		"en"			"Extend Current Map"
 		"zho"			"延長目前地圖"
 		"chi"			"延长目前地图"
+		"jp"			"現在のマップを延長する"
 	}
 
 	"Dont Change"
@@ -42,6 +47,7 @@
 		"en"			"Don't Change"
 		"zho"			"不要換圖"
 		"chi"			"不要换图"
+		"jp"			"変更しない"
 	}
 
 	"Current Map Stays"
@@ -50,6 +56,7 @@
 		"en"			"Current map continues! The Vote has spoken! (Received {1}%% of {2} votes)"
 		"zho"			"地圖延長! 投票通過! (得票率 {1}%% 有{2}投票者)"
 		"chi"			"地图延长! 投票通过! (得票率 {1}%% 有{2}投票者)"
+		"jp"			"現在のマップを延長します (投票 {1}%% 中の {2} 票)"
 	}
 
 	"Changed Next Map"
@@ -58,6 +65,7 @@
 		"en"			"Changed nextmap to \"{1}\"."
 		"zho"			"改變下一張圖的地圖為 {1}"
 		"chi"			"改变下一张图的地图为 {1}"
+		"jp"			"{1}にマップを変更します"
 	}
 
 	"Starting Runoff"
@@ -66,5 +74,6 @@
 		"en"			"No map got over {1}%% votes ({2} [{3}%%] & {4} [{5}%%]), starting runoff vote"
 		"zho"			"沒有地圖得票率超過{1}%%({2} [{3}%%] & {4} [{5}%%])，將在投票一次"
 		"chi"			"没有地图得票率超过{1}%%({2} [{3}%%] & {4} [{5}%%])，将在投票一次"
+		"jp"			"どのマップも{1}%% を超えていません。 ({2} [{3}%%] & {4} [{5}%%])マップ投票を開始します"
 	}
 }

@@ -6,6 +6,7 @@
 		"ru"	"Музыка на карте"
 		"zho"	"地圖音樂"
 		"chi"	"地图音乐"
+		"jp"	"Map Music"
 	}
 
 	"Text_MapMusicEnable"
@@ -14,6 +15,7 @@
 		"ru"	"Музыка на карте {lightgreen}Включена{default}."
 		"zho"	"地圖音樂{lightgreen}開啟"
 		"chi"	"地图音乐{lightgreen}开启"
+		"jp"	"Map musicを {lightgreen}有効{default}にしました"
 	}
 
 	"Text_MapMusicDisable"
@@ -22,6 +24,7 @@
 		"ru"	"Музыка на карте {red}Отключена{default}."
 		"zho"	"地圖音樂{red}關閉"
 		"chi"	"地图音乐{red}关闭"
+		"jp"	"Map musicを {red}無効{default}にしました"
 	}
 
 	"Text_MapMusicVolume"
@@ -32,6 +35,7 @@
 		"ru"	"Музыка на карте {lightgreen}Включена{default}. Громкость: {lightgreen}{1}"
 		"zho"	"地圖音樂{lightgreen}開啟{default} 音量: {lightgreen}{1} "
 		"chi"	"地图音乐{lightgreen}开启{default} 音量: {lightgreen}{1}"
+		"jp"	"Map musicは {lightgreen}有効{default}です　音量: {lightgreen}{1}"
 	}
 
 	"Enabled"
@@ -40,6 +44,7 @@
 		"ru"	"Включена"
 		"zho"	"開啟"
 		"chi"	"开启"
+		"jp"	"有効"
 	}
 
 	"Disabled"
@@ -48,6 +53,7 @@
 		"ru"	"Отключена"
 		"zho"	"關閉"
 		"chi"	"关闭"
+		"jp"	"無効"
 	}
 
 	"Menu_Title"
@@ -56,6 +62,7 @@
 		"ru"	"[MapMusic] Меню управления музыкой"
 		"zho"	"[地圖音樂] 音樂控制介面"
 		"chi"	"[地图音乐] 音乐控制介面"
+		"jp"	"[MapMusic] 音量変更"
 	}
 
 	"Menu_AdjustDesc"
@@ -64,6 +71,7 @@
 		"ru"	"Вы можете приглушить или выключить музыку на карте\nИспользуйте \"!music <0-100>\""
 		"zho"	"你可以使用指令控制音量不用特別完全關閉音樂\n指令\"!music <0-100>\""
 		"chi"	"你可以使用指令控制音量不用特别完全关闭音乐\n指令\"!music <0-100>\""
+		"jp"	"音量調整が使用可能です　\n!music <0-100までの音量>\""
 	}
 
 	"Menu_Music"
@@ -73,6 +81,7 @@
 		"ru"	"Музыка: {1}"
 		"zho"	"地圖音樂: {1}"
 		"chi"	"地图音乐: {1}"
+		"jp"	"Music: {1}"
 	}
 
 	"Menu_Vol"
@@ -82,5 +91,6 @@
 		"ru"	"Громкость: {1}"
 		"zho"	"音量: {1}"
 		"chi"	"音量: {1}"
+		"jp"	"音量: {1}"
 	}
 }

@@ -5,6 +5,7 @@
 		"en"			"Gag/Mute player"
 		"zho"			"禁言/禁音玩家"
 		"chi"			"禁言/禁音玩家"
+		"jp"			"Gag/Muteをする"
 	}
 	
 	"Choose Type"
@@ -12,6 +13,7 @@
 		"en"			"Choose Type"
 		"zho"			"選擇類型"
 		"chi"			"选择类型"
+		"jp"			"Choose Type"
 	}
 	
 	"Gagged target"
@@ -20,6 +22,7 @@
 		"en"			"Gagged {1}."
 		"zho"			"禁言 {1}"
 		"chi"			"禁言 {1}"
+		"jp"			"{1}をgagしました"
 	}
 	
 	"Ungagged target"
@@ -28,6 +31,7 @@
 		"en"			"Ungagged {1}."
 		"zho"			"解除禁言 {1}"
 		"chi"			"解除禁言 {1}"
+		"jp"			"{1}のgagを解除しました"
 	}
 	
 	"Muted target"
@@ -36,6 +40,7 @@
 		"en"			"Muted {1}."
 		"zho"			"禁音 {1}"
 		"chi"			"禁音 {1}"
+		"jp"			"{1}をミュートしました"
 	}
 	
 	"Unmuted target"
@@ -44,6 +49,7 @@
 		"en"			"Unmuted {1}."
 		"zho"			"解除禁音 {1}"
 		"chi"			"解除禁音 {1}"
+		"jp"			"{1}のミュートを解除しました"
 	}
 	
 	"Silenced target"
@@ -52,6 +58,7 @@
 		"en"			"Silenced {1}."
 		"zho"			"同時禁言和禁音 {1}"
 		"chi"			"同时禁言和禁音 {1}"
+		"jp"			"{1}をsilenceしました"
 	}
 	
 	"Unsilenced target"
@@ -60,6 +67,7 @@
 		"en"			"Unsilenced {1}."
 		"zho"			"解除同時禁言/禁音 {1}"
 		"chi"			"解除同时禁言/禁音 {1}"
+		"jp"			"{1}のsilenceを解除しました"
 	}
 	
 	"Mute Player"
@@ -67,6 +75,7 @@
 		"en"			"Mute Player"
 		"zho"			"禁音玩家"
 		"chi"			"禁音玩家"
+		"jp"			"Mute Player"
 	}
 	
 	"UnMute Player"
@@ -74,6 +83,7 @@
 		"en"			"UnMute Player"
 		"zho"			"解除禁音玩家"
 		"chi"			"解除禁音玩家"
+		"jp"			"UnMute Player"
 	}
 	
 	"Gag Player"
@@ -81,6 +91,7 @@
 		"en"			"Gag Player"
 		"zho"			"禁言玩家"
 		"chi"			"禁言玩家"
+		"jp"			"Gag Player"
 	}
 	
 	"UnGag Player"
@@ -88,6 +99,7 @@
 		"en"			"UnGag Player"
 		"zho"			"解除禁言玩家"
 		"chi"			"解除禁言玩家"
+		"jp"			"UnGag Player"
 	}
 	
 	"Silence Player"
@@ -95,6 +107,7 @@
 		"en"			"Silence Player"
 		"zho"			"同時禁言/禁音玩家"
 		"chi"			"同时禁言/禁音玩家"
+		"jp"			"Silence Player"
 	}
 	
 	"UnSilence Player"
@@ -102,5 +115,6 @@
 		"en"			"UnSilence Player"
 		"zho"			"解除同時禁言/禁音玩家"
 		"chi"			"解除同时禁言/禁音玩家"
+		"jp"			"UnSilence Player"
 	}
 }

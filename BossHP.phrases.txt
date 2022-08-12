@@ -6,6 +6,7 @@
 		"th"	"{green}[BossHP]"
 		"chi"	"{green}[BossHP]"
 		"zho"	"{green}[BossHP]"
+		"jp"	"{green}[BossHP]"
 	}
 	"RoundStart_Message_CSGO"
 	{
@@ -13,6 +14,7 @@
 		"th"	"{default}แมพปัจจุบันถูกรองรับโดยปลั๊กอินนี้ การทำดาเมจกับบอสจะทำได้รับค่าสกอร์ {green}[Assists] {default}เพิ่มขึ้น."
 		"chi"	"{default}此地图在插件支援列表，对Boss进行射击的话{green}[Assists协助击杀数]{default}会记录你射击击中数字"
 		"zho"	"{default}此地圖在插件支援列表，對Boss進行射擊的話{green}[Assists協助擊殺數]{default}會記錄你射擊擊中數字"
+		"jp"	"{default}このマップではBOSSHPが有効になっています。ボスを撃つと{green}[アシスト] {default}が増加します"
 	}
 	"RoundStart_Message_CSS"
 	{
@@ -20,6 +22,7 @@
 		"th"	"{white}แมพปัจจุบันถูกรองรับโดยปลั๊กอินนี้ การทำดาเมจกับบอสจะทำได้รับค่าสกอร์ {green}[Death] {white}เพิ่มขึ้น."
 		"chi"	"{default}此地图在插件支援列表，对Boss进行射击的话{green}[Death死亡数]{default}会记录你射击击中数字"
 		"zho"	"{default}此地圖在插件支援列表，對Boss進行射擊的話{green}[Death死亡數]{default}會記錄你射擊擊中數字"
+		"jp"	"{default}このマップではBOSSHPが有効になっています。ボスを撃つと{green}[死亡数] {default}が増加します"
 	}
 	"DamageRank_Title"
 	{
@@ -27,6 +30,7 @@
 		"th"	"*** อันดับผู้ทำดาเมจเยอะที่สุด ***"
 		"chi"	"*** 前几名玩家对Boss伤害 ***"
 		"zho"	"*** 前幾名玩家對Boss傷害 ***"
+		"jp"	"*** Top Boss Damaging ***"
 	}
 	"Dead"
 	{
@@ -34,6 +38,7 @@
 		"th"	"บอสตายแล้ว"
 		"chi"	"倒下"
 		"zho"	"倒下"
+		"jp"	"Dead"
 	}
 	"Cookies_MenuName"
 	{
@@ -41,6 +46,7 @@
 		"th"	"[BossHP] ตั้งค่าแสดงเลือดบอส"
 		"chi"	"[BossHP] 切换是否显示Boss血量"
 		"zho"	"[BossHP] 切換是否顯示Boss血量"
+		"jp"	"[BossHP] Bossの体力を表示"
 	}
 	"Toggle_BossHP"
 	{
@@ -48,6 +54,7 @@
 		"th"	"{default}ตัวแสดงเลือดของบอส"
 		"chi"	"{default}现在会显示Boss伤害"
 		"zho"	"{default}現在會顯示Boss傷害"
+		"jp"	"{default}Boss Damageが有効です"
 	}
 	"Toggle_BHud"
 	{
@@ -55,6 +62,7 @@
 		"th"	"{default}ตัวแสดงเลือดสิ่งของอื่นใดๆ"
 		"chi"	"{default}现在会显示对于任何可破坏物件伤害"
 		"zho"	"{default}現在會顯示對於任何可破壞物件傷害"
+		"jp"	"{default}破壊可能な全てのオブジェクトのDamageが表示されています"
 	}
 	"Toggle_Hitmarker"
 	{
@@ -62,6 +70,7 @@
 		"th"	"{default}ตัว Hitmarker"
 		"chi"	"{default}Hitmarker启动"
 		"zho"	"{default}Hitmarker啟動"
+		"jp"	"{default}Hitmarkerは現在"
 	}
 	"Menu_BossHP"
 	{
@@ -69,6 +78,7 @@
 		"th"	"แสดงเลือดบอส"
 		"chi"	"显示Boss血量"
 		"zho"	"顯示Boss血量"
+		"jp"	"Bossの体力を表示"
 	}
 	"Menu_BHud"
 	{
@@ -76,6 +86,7 @@
 		"th"	"แสดงเลือดสิ่งของ"
 		"chi"	"显示任何可破坏物件"
 		"zho"	"顯示任何可破壞物件"
+		"jp"	"破壊可能な全てのオブジェクトのDamageを表示"
 	}
 	"Menu_Hitmarker"
 	{
@@ -83,6 +94,7 @@
 		"th"	"Hitmarker"
 		"chi"	"Hitmarker(击中显示)"
 		"zho"	"Hitmarker(擊中顯示)"
+		"jp"	"Hitmarker"
 	}
 	"Reload_Config"
 	{
@@ -90,6 +102,7 @@
 		"th"	"โหลด Config สำเร็จ"
 		"chi"	"重新读取Config"
 		"zho"	"重新讀取Config"
+		"jp"	"Configを再読み込みしました"
 	}
 	"Save_Config"
 	{
@@ -97,6 +110,7 @@
 		"th"	"บันทึก Config สำเร็จ"
 		"chi"	"储存Config"
 		"zho"	"儲存Config"
+		"jp"	"Configを保存しました"
 	}
 	"HITs"
 	{
@@ -104,6 +118,7 @@
 		"th"	"ครั้ง"
 		"chi"	"命中"
 		"zho"	"命中"
+		"jp"	"HITs"
 	}
 	"Enabled"
 	{
@@ -111,6 +126,7 @@
 		"th"	"ถูกเปิดแล้ว"
 		"chi"	"开启"
 		"zho"	"開啟"
+		"jp"	"有効"
 	}
 	"Disabled"
 	{
@@ -118,5 +134,6 @@
 		"th"	"ถูกปิดแล้ว"
 		"chi"	"关闭"
 		"zho"	"關閉"
+		"jp"	"無効"
 	}
 }

@@ -6,6 +6,7 @@
 		"en"			"Initiated a vote: {1}"
 		"chi"			"开启投票: {1}"
 		"zho"			"開啟投票: {1}"
+		"jp"			"voteを開始する:{1}"
 	}
 	
 	"Initiated Vote Map"
@@ -13,6 +14,7 @@
 		"en"			"Initiated a map vote."
 		"chi"			"开启地图投票"
 		"zho"			"開啟地圖投票"
+		"jp"			"map voteを開始しました"
 	}	
 	
 	"Initiated Vote Kick"
@@ -21,6 +23,7 @@
 		"en"			"Initiated a kick vote against {1}."
 		"chi"			"再次开启踢除投票 {1}"
 		"zho"			"再次開啟踢除投票 {1}"
+		"jp"			"投票を開始しました:{1}をkickすることについて"
 	}
 	
 	"Initiated Vote Ban"
@@ -29,6 +32,7 @@
 		"en"			"Initiated a ban vote against {1}."
 		"chi"			"再次开启封禁投票 {1}"
 		"zho"			"再次開啟封禁投票 {1}"
+		"jp"			"投票を開始しました:{1}をbanすることについて"
 	}
 	
 	"Map Vote"
@@ -37,6 +41,7 @@
 		"en"			"Map Vote: {1}"
 		"chi"			"地图投票: {1}"
 		"zho"			"地圖投票: {1}"
+		"jp"			"マップ投票: {1}"
 	}
 
 	"Map Vote In Use"
@@ -44,6 +49,7 @@
 		"en"			"Another admin is currently using the map vote menu."
 		"chi"			"有名管理员正在使用/map地图指令"
 		"zho"			"有名管理員正在使用/map地圖指令"
+		"jp"			"他のadminが現在map vote menuを使用中です"
 	}
 	
 	"Change Map To"
@@ -52,6 +58,7 @@
 		"en"			"Change map to {1}?"
 		"chi"			"是否切换地图至 {1}?"
 		"zho"			"是否切換地圖至 {1}?"
+		"jp"			"マップを{1}に変更しますか？"
 	}	
 
 	"Votekick Player"
@@ -60,6 +67,7 @@
 		"en"			"Kick {1}?"
 		"chi"			"踢除 {1}?"
 		"zho"			"踢除 {1}?"
+		"jp"			"{1}をkickしますか?"
 	}
 
 	"Voteban Player"
@@ -68,6 +76,7 @@
 		"en"			"Ban {1}?"
 		"chi"			"封禁 {1}"
 		"zho"			"封禁 {1}?"
+		"jp"			"{1}をbanしますか?"
 	}
 	
 	"Vote Successful"
@@ -76,6 +85,7 @@
 		"en"			"Vote successful. (Received {1}%% of {2} votes)"
 		"chi"			"投票成功! (投票率 {1}%% 有 {2} 名投票者)"
 		"zho"			"投票成功! (投票率 {1}%% 有 {2} 名投票者)"
+		"jp"			"投票が成功しました。 ({2}票のうち{1}%%)"
 	}	
 	
 	"Vote Failed"
@@ -84,6 +94,7 @@
 		"en"			"Vote failed. {1}%% vote required. (Received {2}%% of {3} votes)"
 		"chi"			"投票失败! 需要至少 {1}%% 同意 (投票率 {1}%% 有 {2} 名投票者)"
 		"zho"			"投票失敗! 需要至少 {1}%% 同意 (投票率 {1}%% 有 {2} 名投票者)"
+		"jp"			"投票が失敗しました。{1}%%以上の投票が必要です。({3}票のうち{2}%%)"
 	}	
 
 	"Vote End"
@@ -92,12 +103,14 @@
 		"en"			"The answer to {1} is: {2}."
 		"chi"			"{1}投票结果为{2}"
 		"zho"			"{1}投票結果為{2}"
+		"jp"			"{1}の投票結果は{2}です"
 	}
 	"Kick vote"
 	{
 		"en"			"Kick vote"
 		"chi"			"踢除投票"
 		"zho"			"踢除投票"
+		"jp"			"Kick投票"
 	}
 
 	"Ban vote"
@@ -105,6 +118,7 @@
 		"en"			"Ban vote"
 		"chi"			"封禁投票"
 		"zho"			"封禁投票"
+		"jp"			"Ban投票"
 	}
 
 	"Map vote"
@@ -112,6 +126,7 @@
 		"en"			"Map vote"
 		"chi"			"地图投票"
 		"zho"			"地圖投票"
+		"jp"			"Map投票"
 	}
 
 	"Confirm Vote"
@@ -119,6 +134,7 @@
 		"en"			"Confirm Vote"
 		"chi"			"确认投票"
 		"zho"			"確認投票"
+		"jp"			"投票を承認する"
 	}
 	
 	"Please select a map"
@@ -126,6 +142,7 @@
 		"en"			"Please select a map"
 		"chi"			"请选择一张地图"
 		"zho"			"請選擇一張地圖"
+		"jp"			"Mapを選択してください"
 	}
 	
 	"Start the Vote"
@@ -133,5 +150,6 @@
 		"en"			"Start the Vote"
 		"chi"			"开始投票"
 		"zho"			"開始投票"
+		"jp"			"投票を開始する"
 	}
 }

@@ -6,6 +6,7 @@
 		"ru"			"{lightblue}[{red}ГЛАЗ{lightblue}]"
 		"zho"			"{lightblue}[{red}按鈕檢測{lightblue}]"
 		"chi"			"{lightblue}[{red}按钮检测{lightblue}]"
+		"jp"			"{lightblue}[{red}Map Buttom{lightblue}]"
 	}
 	"Button Press"
 	{
@@ -14,6 +15,7 @@
 		"ru"			"{green}{1} {default}нажал на кнопку {lightblue}{2} {default}[{lime}ID:{3}{default}]"
 		"zho"			"{green}{1} {default}按下了按鈕 {lightblue}{2} {default}[{lime}ID:{3}{default}]"
 		"chi"			"{green}{1} {default}按下了按钮 {lightblue}{2} {default}[{lime}ID:{3}{default}]"
+		"jp"			"{green}{1} {default}がトリガーを作動 {lightblue}{2} {default}[{lime}ID:{3}{default}]"
 	}
 	"BBan Temp"
 	{
@@ -22,6 +24,7 @@
 		"ru"			"{lightblue}{1} {default}забанил нажатие на кнопки {green}{2} {lime}временно"
 		"zho"			"{lightblue}{1} {default}禁止觸發按鈕 {green}{2} {lime}(暫時性)"
 		"chi"			"{lightblue}{1} {default}禁止触发按钮 {green}{2} {lime}(暂时性)"
+		"jp"			"{lightblue}{1} {default}はトリガーを制限されています {green}{2} {lime}(現在)"
 	}
 	"BBan Perm"
 	{
@@ -30,6 +33,7 @@
 		"ru"			"{lightblue}{1} {default}забанил нажатие на кнопки {green}{2} {red}навсегда"
 		"zho"			"{lightblue}{1} {default}禁止觸發按鈕 {green}{2} {red}(永久性)"
 		"chi"			"{lightblue}{1} {default}禁止触发按钮 {green}{2} {red}(永久性)"
+		"jp"			"{lightblue}{1} {default}はトリガーを制限されています {green}{2} {red}(永久)"
 	}
 	"BBan Time"
 	{
@@ -38,6 +42,7 @@
 		"ru"			"{lightblue}{1} {default}забанил нажатие на кнопки {green}{2} {default}на {lime}{3}"
 		"zho"			"{lightblue}{1} {default}禁止觸發按鈕 {green}{2} {lime}{3} {default}"
 		"chi"			"{lightblue}{1} {default}禁止触发按钮 {green}{2} {lime}{3} {default}"
+		"jp"			"{lightblue}{1} {default}はトリガーを制限されています {green}{2} {default}for {lime}{3}"
 	}
 	"BBan Unban"
 	{
@@ -46,6 +51,7 @@
 		"ru"			"{lightblue}{1} {default}разбанил нажатие на кнопки {green}{2}"
 		"zho"			"{lightblue}{1} {default}解除禁止觸發按鈕 {green}{2}"
 		"chi"			"{lightblue}{1} {default}解除禁止触发按钮 {green}{2}"
+		"jp"			"{lightblue}{1} {default}のトリガー制限が解除されました {green}{2}"
 	}
 	"BBan Unban TimeLeft"
 	{
@@ -53,6 +59,7 @@
 		"ru"			"{default}Время вашего BBan истекло. Вам снова {green}Разрешено {default}нажимать на кнопки"
 		"zho"			"{default}您的處罰已經結束，你已經{green}可以{default}觸發按鈕了"
 		"chi"			"{default}您的处罚已经结束，你已经{green}可以{default}触发按钮了"
+		"jp"			"{default}トリガー制限時間が終了しました。今から{green}トリガーを押すことが {default}可能です"
 	}
 	"BBan You Unbanned"
 	{
@@ -60,6 +67,7 @@
 		"ru"			"{default}Вам {green}Разрешено {default}нажимать на кнопки"
 		"zho"			"{default}您現在被{green}允許{default}觸發按鈕"
 		"chi"			"{default}您现在被{green}允许{default}触发按钮"
+		"jp"			"{default}貴方は今から {green}トリガーを押すことが {default}可能です"
 	}
 	"BBan You Banned Temp"
 	{
@@ -67,6 +75,7 @@
 		"ru"			"{default}Вам {red}Запрещено {default}нажимать на кнопки {lightblue}Временно"
 		"zho"			"{default}您現在{red}不允許{default}觸發按鈕{lightblue} (暫時性)"
 		"chi"			"{default}您现在{red}不允许{default}触发按钮{lightblue} (暂时性)"
+		"jp"			"{default}貴方は現在 {red}トリガーを押すことを制限 {default}されています。{lightblue}(指定した時間まで)"
 	}
 	"BBan You Banned Perm"
 	{
@@ -74,6 +83,7 @@
 		"ru"			"{default}Вам {red}Запрещено {default}нажимать на кнопки {lightblue}Навсегда"
 		"zho"			"{default}您現在{red}不允許{default}觸發按鈕{lightblue} (永久性)"
 		"chi"			"{default}您现在{red}不允许{default}触发按钮{lightblue} (永久性)"
+		"jp"			"{default}貴方は {red}トリガーを押すことを制限 {default}されています。{lightblue}(永久)"
 	}
 	"BBan You Banned Time"
 	{
@@ -82,6 +92,7 @@
 		"ru"			"{default}Вам {red}Запрещено {default}нажимать на кнопки ещё {lightblue}{1}"
 		"zho"			"{default}您現在{red}不允許{default}去觸發按鈕 時間 : {lightblue}{1}"
 		"chi"			"{default}您现在{red}不允许{default}去触发按钮 时间 : {lightblue}{1}"
+		"jp"			"{default}現在貴方はトリガーを押すことを{red}制限{default}されています。制限時間: {lightblue}"
 	}
 	"BBan You Banned Admin"
 	{
@@ -90,6 +101,7 @@
 		"ru"			"{default}Админ: {lightblue}{1} {default}запретил нажимать вам на кнопки"
 		"zho"			"{default}管理員: {lightblue}{1} {default}禁止您觸發按鈕"
 		"chi"			"{default}管理员: {lightblue}{1} {default}禁止您触发按钮"
+		"jp"			"{default}Admin: {lightblue}{1} {default}が貴方のトリガーを押すことを制限しました"
 	}
 	"BBan No Available"
 	{
@@ -97,13 +109,15 @@
 		"ru"			"{default}Игрок больше не доступен"
 		"zho"			"{default}抱歉此玩家不存在"
 		"chi"			"{default}抱歉此玩家不存在"
+		"jp"			"{default}有効なプレイヤーがいません"
 	}
 	"Buttons View Disabled"
 	{
 		"en"			"{default}You have {red}Disabled {default}button tracking"
 		"ru"			"{default}Вы {red}Oтключили {default}слежение за нажатием кнопок"
-		"zho"			"{default}您已經{red}關閉{default}按鈕追蹤""
+		"zho"			"{default}您已經{red}關閉{default}按鈕追蹤"
 		"chi"			"{default}您已经{red}关闭{default}按钮追踪"
+		"jp"			"{default}貴方はトリガーの追跡が {red}無効 {default}になっています"
 	}
 	"Buttons View Enabled"
 	{
@@ -111,5 +125,6 @@
 		"ru"			"{default}Вы {green}Включили {default}слежение за нажатием кнопок"
 		"zho"			"{default}您已經{green}開啟{default}按鈕追蹤"
 		"chi"			"{default}您已经{green}开启{default}按钮追踪"
+		"jp"			"{default}貴方はトリガーの追跡が {green}有効 {default}になっています"
 	}
 }
